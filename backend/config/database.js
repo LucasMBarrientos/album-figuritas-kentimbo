@@ -10,13 +10,13 @@ let pool;
 
 if (process.env.DATABASE_URL) {
   // Render.com - usa DATABASE_URL
-  console.log('📡 Conectando con DATABASE_URL (Render/producción)...');
+  console.log('📡 Conectando con DATABASE_URL (Render/producción) con SSL...');
   pool = new Pool({
     connectionString: process.env.DATABASE_URL,
-    ssl: process.env.NODE_ENV === 'production' ? { rejectUnauthorized: false } : false
+    ssl: { rejectUnauthorized: false } // Siempre SSL para Render
   });
 } else if (process.env.DB_USER && process.env.DB_PASSWORD && process.env.DB_HOST && process.env.DB_PORT && process.env.DB_NAME) {
-  // Local - usa variables individuales
+  // Local - usa variables individuales (sin SSL)
   console.log('📡 Conectando con variables individuales (Local)...');
   pool = new Pool({
     user: process.env.DB_USER,

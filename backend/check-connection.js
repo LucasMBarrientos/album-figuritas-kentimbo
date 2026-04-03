@@ -9,14 +9,14 @@ const { Pool } = pg;
 let pool;
 
 if (process.env.DATABASE_URL) {
-  console.log('📡 Usando DATABASE_URL...');
+  console.log('📡 Usando DATABASE_URL (Render)...');
   pool = new Pool({
     connectionString: process.env.DATABASE_URL,
-    ssl: process.env.NODE_ENV === 'production' ? { rejectUnauthorized: false } : false
+    ssl: { rejectUnauthorized: false } // Siempre SSL para Render
   });
 } else {
   // Opción 2: Variables individuales
-  console.log('📡 Usando variables individuales...');
+  console.log('📡 Usando variables individuales (Local)...');
   pool = new Pool({
     user: process.env.DB_USER,
     password: process.env.DB_PASSWORD,
