@@ -25,7 +25,7 @@ const runMigrations = async () => {
         id SERIAL PRIMARY KEY,
         nombre VARCHAR(100) NOT NULL UNIQUE,
         emoji VARCHAR(10),
-        color VARCHAR(7),
+        color VARCHAR(100),
         fundacion VARCHAR(100),
         estadio VARCHAR(100),
         capacidad VARCHAR(50),
@@ -84,12 +84,18 @@ const runMigrations = async () => {
       ADD COLUMN IF NOT EXISTS sobres_disponibles INTEGER DEFAULT 2;
     `);
 
+    // 7. Expandir campo color en equipos si es necesario
+    await pool.query(`
+      ALTER TABLE equipos
+      ALTER COLUMN color TYPE VARCHAR(100);
+    `);
+
     await pool.query(`
       ALTER TABLE usuarios
       ADD COLUMN IF NOT EXISTS ultimo_dia_sobre DATE DEFAULT NULL;
     `);
 
-    // 7. Eliminar columnas antiguas si existen
+    // 8. Eliminar columnas antiguas si existen
     await pool.query(`
       ALTER TABLE usuarios
       DROP COLUMN IF EXISTS ultimo_sobre_abierto;
