@@ -62,9 +62,14 @@ const Album = () => {
             if (fig.equipo_id) {
                 if (!grupos[fig.equipo_id]) {
                     grupos[fig.equipo_id] = {
+                        equipo_id: fig.equipo_id,
                         equipo_nombre: fig.equipo_nombre,
                         emoji: fig.emoji,
                         color: fig.color,
+                        estadio: fig.estadio,
+                        capacidad: fig.capacidad,
+                        entrenador: fig.entrenador,
+                        fundacion: fig.fundacion,
                         figuritas: []
                     };
                 }
@@ -287,22 +292,66 @@ const Album = () => {
                                             {paginas[currentPageIndex] && (
                                                 <div className="team-section">
                                                     <div className="team-header-full">
-                                                        <span className="team-emoji">{paginas[currentPageIndex].equipo.emoji}</span>
                                                         <h3>{paginas[currentPageIndex].equipo.equipo_nombre}</h3>
                                                     </div>
+                                                    
+                                                    {/* INFORMACIÓN DEL EQUIPO */}
+                                                    <div className="team-info-card">
+                                                        <div className="team-info-details">
+                                                            <div className="info-row">
+                                                                <span className="info-label">Estadio: </span>
+                                                                <span className="info-value">{paginas[currentPageIndex].equipo.estadio || '—'}</span>
+                                                            </div>
+                                                            <div className="info-row">
+                                                                <span className="info-label">Capacidad: </span>
+                                                                <span className="info-value">{paginas[currentPageIndex].equipo.capacidad || '—'}</span>
+                                                            </div>
+                                                            <div className="info-row">
+                                                                <span className="info-label">Entrenador: </span>
+                                                                <span className="info-value">{paginas[currentPageIndex].equipo.entrenador || '—'}</span>
+                                                            </div>
+                                                            <div className="info-row">
+                                                                <span className="info-label">Fundación: </span>
+                                                                <span className="info-value">{paginas[currentPageIndex].equipo.fundacion || '—'}</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+                                                    {/* SEPARADOR */}
+                                                    <div className="team-separator"></div>
+
+                                                    {/* ESCUDO DEL EQUIPO */}
+                                                    <div className="team-shield-card">
+                                                        <div className="team-shield-emoji">{paginas[currentPageIndex].equipo.emoji}</div>
+                                                        <div className="team-shield-name">{paginas[currentPageIndex].equipo.equipo_nombre}</div>
+                                                    </div>
+
                                                     <div className="figuritas-grid-full">
                                                         {paginas[currentPageIndex].jugadores.map(fig => (
-                                                            <div
-                                                                key={fig.id}
-                                                                className={`figurita-card ${fig.pegada ? 'pegada' : 'no-pegada'} ${obtainedPlayers.has(fig.id) ? 'obtenido' : ''}`}
-                                                                onClick={() => togglePegar(fig.figurita_id || fig.id, fig.pegada, fig.id)}
-                                                            >
-                                                                <div className="figurita-info">
-                                                                    <p className="figurita-nombre">{fig.nombre}</p>
-                                                                    <p className="figurita-numero">#{fig.numero_camiseta}</p>
+                                                            <div key={fig.id} className="figurita-card-wrapper">
+                                                                <div className="figurita-top">
+                                                                        <p className="figurita-nombre">{fig.nombre}</p>
+                                                                    </div>
+                                                                <div
+                                                                    className={`figurita-card ${fig.pegada ? 'pegada' : 'no-pegada'} ${obtainedPlayers.has(fig.id) ? 'obtenido' : ''}`}
+                                                                    onClick={() => togglePegar(fig.figurita_id || fig.id, fig.pegada, fig.id)}
+                                                                >
+                                                                    
+                                                                    <div className="figurita-middle">
+                                                                        <div className="figurita-emoji">{fig.avatar_emoji || '👤'}</div>
+                                                                    </div>
+                                                                    <div className="figurita-bottom">
+                                                                        <p className="figurita-numero">#{fig.numero_camiseta}</p>
+                                                                        <div className="figurita-status">
+                                                                            {fig.pegada ? '✓' : '?'}
+                                                                        </div>
+                                                                    </div>
                                                                 </div>
-                                                                <div className="figurita-status">
-                                                                    {fig.pegada ? '✓' : '?'}
+                                                                <div className="figurita-data">
+                                                                    {fig.posicion && <div className="data-item"><span className="data-label">Pos:</span> <span className="data-value">{fig.posicion}</span></div>}
+                                                                    {fig.altura && <div className="data-item"><span className="data-label">Alt:</span> <span className="data-value">{fig.altura}</span></div>}
+                                                                    {fig.edad && <div className="data-item"><span className="data-label">Edad:</span> <span className="data-value">{fig.edad}</span></div>}
+                                                                    {fig.pie && <div className="data-item"><span className="data-label">Pie:</span> <span className="data-value">{fig.pie}</span></div>}
                                                                 </div>
                                                             </div>
                                                         ))}
