@@ -186,7 +186,7 @@ const Album = () => {
             <div className="album-header">
                 <div className="header-content">
                     <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '15px' }}>
-                        <h1></h1>
+                        <h1 style={{ fontSize: '24px', margin: 0 }}> Álbum de Figuritas</h1>
                         <button
                             className="sobres-btn"
                             onClick={abrirSobre}
