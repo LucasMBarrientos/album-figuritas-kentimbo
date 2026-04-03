@@ -10,14 +10,14 @@ let pool;
 
 if (process.env.DATABASE_URL) {
   // Render.com - usa DATABASE_URL
-  console.log('📡 Conectando con DATABASE_URL (Render)...');
+  console.log('📡 Conectando con DATABASE_URL (Render/producción)...');
   pool = new Pool({
     connectionString: process.env.DATABASE_URL,
     ssl: process.env.NODE_ENV === 'production' ? { rejectUnauthorized: false } : false
   });
-} else {
+} else if (process.env.DB_USER && process.env.DB_PASSWORD && process.env.DB_HOST && process.env.DB_PORT && process.env.DB_NAME) {
   // Local - usa variables individuales
-  console.log('📡 Conectando con variables (Local)...');
+  console.log('📡 Conectando con variables individuales (Local)...');
   pool = new Pool({
     user: process.env.DB_USER,
     password: process.env.DB_PASSWORD,
@@ -25,10 +25,27 @@ if (process.env.DATABASE_URL) {
     port: process.env.DB_PORT,
     database: process.env.DB_NAME,
   });
+} else {
+  // Error - no hay variables configuradas
+  console.error('\n❌ ERROR CRÍTICO: No se encontraron credenciales de base de datos\n');
+  console.error('Configura UNA de estas opciones en Environment Variables:\n');
+  console.error('OPCIÓN 1 - DATABASE_URL (Render/Producción):');
+  console.error('  DATABASE_URL=postgresql://usuario:contraseña@host:5432/dbname\n');
+  console.error('OPCIÓN 2 - Variables individuales (Local):');
+  console.error('  DB_USER=usuario');
+  console.error('  DB_PASSWORD=contraseña');
+  console.error('  DB_HOST=localhost');
+  console.error('  DB_PORT=5432');
+  console.error('  DB_NAME=figuritas_bd\n');
+  console.error('📌 PARA RENDER:');
+  console.error('  1. Ve a PostgreSQL database en Render');
+  console.error('  2. Copia la "connection string"');
+  console.error('  3. En Web Service → Environment → Agrega: DATABASE_URL=<string>\n');
+  process.exit(1);
 }
 
 pool.on('error', (err) => {
-  console.error('❌ Error inesperado en el pool de conexiones:', err);
+  console.error('❌ Error inesperado en el pool de conexiones:', err.message);
 });
 
 // Crear tablas si no existen
