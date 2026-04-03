@@ -5,16 +5,30 @@ dotenv.config();
 
 const { Pool } = pg;
 
-const pool = new Pool({
-  user: process.env.DB_USER,
-  password: process.env.DB_PASSWORD,
-  host: process.env.DB_HOST,
-  port: process.env.DB_PORT,
-  database: process.env.DB_NAME,
-});
+// Soportar tanto DATABASE_URL (Render) como variables individuales (local)
+let pool;
+
+if (process.env.DATABASE_URL) {
+  // Render.com - usa DATABASE_URL
+  console.log('📡 Conectando con DATABASE_URL (Render)...');
+  pool = new Pool({
+    connectionString: process.env.DATABASE_URL,
+    ssl: process.env.NODE_ENV === 'production' ? { rejectUnauthorized: false } : false
+  });
+} else {
+  // Local - usa variables individuales
+  console.log('📡 Conectando con variables (Local)...');
+  pool = new Pool({
+    user: process.env.DB_USER,
+    password: process.env.DB_PASSWORD,
+    host: process.env.DB_HOST,
+    port: process.env.DB_PORT,
+    database: process.env.DB_NAME,
+  });
+}
 
 pool.on('error', (err) => {
-  console.error('Error inesperado en el pool de conexiones:', err);
+  console.error('❌ Error inesperado en el pool de conexiones:', err);
 });
 
 // Crear tablas si no existen
