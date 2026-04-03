@@ -10,12 +10,12 @@
 
 ### 1.1 Crear repositorio
 
-1. Ve a [github.com](https://github.com)
-2. Haz clic en "+" → "New repository"
-3. Nombre: `album-figuritas-kentimbo`
-4. Descripción: "App de colección de figuritas de baloncesto"
-5. Public (para que otros accedan)
-6. Crea el repositorio
+✅ **Ya hecho!** Tu repositorio está en:
+```
+https://github.com/LucasMBarrientos/album-figuritas-kentimbo
+```
+
+Verifica que esté público para que otros puedan acceder.
 
 ### 1.2 Subir código a GitHub
 
@@ -29,7 +29,7 @@ git commit -m "Initial commit: App de figuritas"
 
 # Agregar remote
 git branch -M main
-git remote add origin https://github.com/TU_USUARIO/album-figuritas-kentimbo.git
+git remote add origin https://github.com/LucasMBarrientos/album-figuritas-kentimbo.git
 git push -u origin main
 ```
 
@@ -50,6 +50,7 @@ git push -u origin main
 3. Configura:
    - **Name:** `album-figuritas-backend`
    - **Environment:** `Node`
+   - **Root Directory:** `backend` ⭐ **IMPORTANTE**
    - **Build Command:** `npm install`
    - **Start Command:** `node server.js`
    - **Plan:** Free
@@ -68,18 +69,13 @@ En el Web Service, ve a "Environment":
 
 ```
 PORT=5000
-DB_HOST=<hostname del PostgreSQL>
-DB_PORT=5432
-DB_NAME=<database name>
-DB_USER=<username>
-DB_PASSWORD=<password>
 JWT_SECRET=tu_secreto_super_mega_seguro_123456789
 JWT_EXPIRE=7d
-FRONTEND_URL=https://tu-app.vercel.app
+FRONTEND_URL=https://album-figuritas-kentimbo.vercel.app
 NODE_ENV=production
 ```
 
-💡 Obtén estos datos de la BD que creaste
+💡 **Nota:** La conexión a PostgreSQL se configura automáticamente desde la BD que creaste. Render genera `DATABASE_URL` automáticamente.
 
 ### 2.5 Deploy
 
@@ -100,7 +96,7 @@ NODE_ENV=production
 ### 3.2 Importar Proyecto
 
 1. "Import Project" → Selecciona `album-figuritas-kentimbo`
-2. Deja las configuraciones por defecto
+2. Root directory: `frontend/`
 3. En "Environment Variables" agrega:
 
 ```
@@ -124,7 +120,7 @@ El backend necesita permitir tu frontend. En `backend/server.js`:
 app.use(cors({
   origin: [
     'http://localhost:3000',
-    'https://YOUR_VERCEL_URL.vercel.app'
+    'https://album-figuritas-kentimbo.vercel.app'
   ],
   credentials: true
 }));
@@ -154,7 +150,7 @@ O usa el script `seed.js` en el backend.
 
 ## 🧪 Testear la Aplicación
 
-1. Ve a `https://tu-app.vercel.app`
+1. Ve a `https://album-figuritas-kentimbo.vercel.app`
 2. Registrate con un email de prueba
 3. ¡Comienza a coleccionar!
 
@@ -164,9 +160,10 @@ O usa el script `seed.js` en el backend.
 
 | Problema | Solución |
 |----------|----------|
+| "Cannot read package.json: ENOENT" | En Render Settings, establece Root Directory: `backend` |
 | "Cannot GET /api/figuritas" | Backend no está corriendo. Verifica Render logs |
-| CORS error | Actualiza `FRONTEND_URL` en variables de backend |
-| BD no responde | Verifica credenciales en Render PostgreSQL |
+| CORS error | Asegúrate que REACT_APP_API_URL tiene la URL de Render backend |
+| BD no responde | En Render, conecta el PostgreSQL database al Web Service |
 | Error 500 | Revisa logs en Render: "Runtime→Logs" |
 
 ---
@@ -175,7 +172,7 @@ O usa el script `seed.js` en el backend.
 
 Una vez todo funcione, comparte este link:
 ```
-https://tu-app.vercel.app
+https://album-figuritas-kentimbo.vercel.app
 ```
 
 La gente podrá acceder directamente, ¡sin instalar nada!
