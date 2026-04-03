@@ -10,7 +10,9 @@
   "scripts": {
     "start": "node server.js",
     "dev": "node --watch server.js",
-    "seed": "node seed-deploy.js"
+    "seed": "node seed-deploy.js",
+    "seed-json": "node seed-from-json.js",
+    "check-db": "node check-connection.js"
   },
   "keywords": ["api", "figuritas", "album"],
   "author": "Lucas",
