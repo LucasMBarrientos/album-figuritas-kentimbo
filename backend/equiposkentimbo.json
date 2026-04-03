@@ -1,0 +1,4271 @@
+{
+    "equipos": [
+        {
+            "nombre": "Altardez Verdi-Rojo",
+            "color": "Verde y rojo",
+            "fundacion": "16 de enero de 1972",
+            "estadio": "Tardío Verdi-Rojo",
+            "capacidad": "38.500",
+            "entrenador": "Javier Tordioll",
+            "rivalidades": [
+                "Rayados de Maltania",
+                "Fieshida"
+            ],
+            "jugadores": [
+                {
+                    "nombre": "Gubaiana, Dorival",
+                    "posicion": "ARQ",
+                    "altura": "196",
+                    "edad": "31",
+                    "pie": "D",
+                    "valoracion": "80",
+                    "foto": null
+                },
+                {
+                    "nombre": "Rhisken, Fuhre",
+                    "posicion": "ARQ",
+                    "altura": "180",
+                    "edad": "33",
+                    "pie": "D",
+                    "valoracion": "66",
+                    "foto": null
+                },
+                {
+                    "nombre": "Mikelar, Carlos",
+                    "posicion": "DFC",
+                    "altura": "180",
+                    "edad": "35",
+                    "pie": "D",
+                    "valoracion": "80",
+                    "foto": null
+                },
+                {
+                    "nombre": "Naskit, Humre",
+                    "posicion": "DFC",
+                    "altura": "186",
+                    "edad": "30",
+                    "pie": "I",
+                    "valoracion": "72",
+                    "foto": null
+                },
+                {
+                    "nombre": "Xupa, Aron",
+                    "posicion": "DFC, LI, LD",
+                    "altura": "189",
+                    "edad": "26",
+                    "pie": "D",
+                    "valoracion": "81",
+                    "foto": null
+                },
+                {
+                    "nombre": "Gonsalvo, Brian",
+                    "posicion": "LI, LD, MI",
+                    "altura": "182",
+                    "edad": "29",
+                    "pie": "D",
+                    "valoracion": "76",
+                    "foto": null
+                },
+                {
+                    "nombre": "Nazario, Carlos",
+                    "posicion": "LD, DFC",
+                    "altura": "182",
+                    "edad": "34",
+                    "pie": "D",
+                    "valoracion": "82",
+                    "foto": null
+                },
+                {
+                    "nombre": "Mahejović, Mirko",
+                    "posicion": "LI",
+                    "altura": "177",
+                    "edad": "28",
+                    "pie": "I",
+                    "valoracion": "71",
+                    "foto": null
+                },
+                {
+                    "nombre": "Tolcho, Ezequiel",
+                    "posicion": "MCD",
+                    "altura": "181",
+                    "edad": "26",
+                    "pie": "D",
+                    "valoracion": "84",
+                    "foto": null
+                },
+                {
+                    "nombre": "Uribarra, Joaquín",
+                    "posicion": "MI, MC",
+                    "altura": "178",
+                    "edad": "21",
+                    "pie": "I",
+                    "valoracion": "60",
+                    "foto": null
+                },
+                {
+                    "nombre": "Odol, Rafael",
+                    "posicion": "MI, MC, MD, MO",
+                    "altura": "180",
+                    "edad": "33",
+                    "pie": "I",
+                    "valoracion": "76",
+                    "foto": null
+                },
+                {
+                    "nombre": "Rebeco, Marcos",
+                    "posicion": "MD, MC",
+                    "altura": "175",
+                    "edad": "21",
+                    "pie": "D",
+                    "valoracion": "63",
+                    "foto": null
+                },
+                {
+                    "nombre": "Mané-Kané",
+                    "posicion": "MCD, MC",
+                    "altura": "179",
+                    "edad": "33",
+                    "pie": "D",
+                    "valoracion": "72",
+                    "foto": null
+                },
+                {
+                    "nombre": "Gentza, Martín",
+                    "posicion": "MO, MC, SD",
+                    "altura": "190",
+                    "edad": "38",
+                    "pie": "D",
+                    "valoracion": "81",
+                    "foto": null
+                },
+                {
+                    "nombre": "Mithid, Mithu",
+                    "posicion": "MO, MC, SD",
+                    "altura": "185",
+                    "edad": "29",
+                    "pie": "D",
+                    "valoracion": "73",
+                    "foto": null
+                },
+                {
+                    "nombre": "Calé, Santiago",
+                    "posicion": "MC",
+                    "altura": "174",
+                    "edad": "29",
+                    "pie": "D",
+                    "valoracion": "81",
+                    "foto": null
+                },
+                {
+                    "nombre": "Balbón, Ricardo",
+                    "posicion": "SD, DC",
+                    "altura": "178",
+                    "edad": "25",
+                    "pie": "I",
+                    "valoracion": "83",
+                    "foto": null
+                },
+                {
+                    "nombre": "Castillo, Teófilo",
+                    "posicion": "SD",
+                    "altura": "175",
+                    "edad": "21",
+                    "pie": "I",
+                    "valoracion": "66",
+                    "foto": null
+                },
+                {
+                    "nombre": "Gentza, Saúl",
+                    "posicion": "DC",
+                    "altura": "190",
+                    "edad": "37",
+                    "pie": "D",
+                    "valoracion": "85",
+                    "foto": null
+                },
+                {
+                    "nombre": "Juvenil",
+                    "posicion": "?",
+                    "altura": "?",
+                    "edad": "17",
+                    "pie": "?",
+                    "valoracion": "68",
+                    "foto": null
+                }
+            ],
+            "escudo": null
+        },
+        {
+            "nombre": "Asociación Alburgo de Kentucky",
+            "color": "?",
+            "fundacion": "7 de julio de 1918",
+            "estadio": "Central Alburgo",
+            "capacidad": "40.000",
+            "entrenador": "Jorge Mabil",
+            "rivalidades": [
+                "C.A. Pochoclo"
+            ],
+            "jugadores": [
+                {
+                    "nombre": "García, Héctor",
+                    "posicion": "ARQ",
+                    "altura": "181",
+                    "edad": "35",
+                    "pie": "D",
+                    "valoracion": "76",
+                    "foto": null
+                },
+                {
+                    "nombre": "Guto, Xavier",
+                    "posicion": "ARQ",
+                    "altura": "187",
+                    "edad": "23",
+                    "pie": "I",
+                    "valoracion": "79",
+                    "foto": null
+                },
+                {
+                    "nombre": "Das Gracas, Eusebio",
+                    "posicion": "DFC",
+                    "altura": "188",
+                    "edad": "27",
+                    "pie": "I",
+                    "valoracion": "77",
+                    "foto": null
+                },
+                {
+                    "nombre": "León, Emilio",
+                    "posicion": "DFC",
+                    "altura": "191",
+                    "edad": "26",
+                    "pie": "I",
+                    "valoracion": "77",
+                    "foto": null
+                },
+                {
+                    "nombre": "Fleurquin, Barril",
+                    "posicion": "DFC",
+                    "altura": "189",
+                    "edad": "17",
+                    "pie": "D",
+                    "valoracion": "68",
+                    "foto": null
+                },
+                {
+                    "nombre": "Pérez, Luciano",
+                    "posicion": "LD",
+                    "altura": "176",
+                    "edad": "28",
+                    "pie": "D",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Maiolo, Mattia",
+                    "posicion": "LI",
+                    "altura": "175",
+                    "edad": "33",
+                    "pie": "I",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Cantudo, José",
+                    "posicion": "LD",
+                    "altura": "173",
+                    "edad": "25",
+                    "pie": "D",
+                    "valoracion": "69",
+                    "foto": null
+                },
+                {
+                    "nombre": "Vilinho",
+                    "posicion": "LI",
+                    "altura": "177",
+                    "edad": "28",
+                    "pie": "I",
+                    "valoracion": "71",
+                    "foto": null
+                },
+                {
+                    "nombre": "Ros, Martín",
+                    "posicion": "MCD",
+                    "altura": "176",
+                    "edad": "38",
+                    "pie": "D",
+                    "valoracion": "73",
+                    "foto": null
+                },
+                {
+                    "nombre": "Ortíz Almendari, Fabricio",
+                    "posicion": "MC",
+                    "altura": "182",
+                    "edad": "26",
+                    "pie": "D",
+                    "valoracion": "77",
+                    "foto": null
+                },
+                {
+                    "nombre": "Berhuete, Hugo",
+                    "posicion": "MC",
+                    "altura": "174",
+                    "edad": "26",
+                    "pie": "D",
+                    "valoracion": "74",
+                    "foto": null
+                },
+                {
+                    "nombre": "Mikoteit, Santiago",
+                    "posicion": "MC",
+                    "altura": "176",
+                    "edad": "30",
+                    "pie": "D",
+                    "valoracion": "76",
+                    "foto": null
+                },
+                {
+                    "nombre": "Ricardinho Jr",
+                    "posicion": "MC",
+                    "altura": "176",
+                    "edad": "22",
+                    "pie": "I",
+                    "valoracion": "70",
+                    "foto": null
+                },
+                {
+                    "nombre": "Pedreira, Ariel",
+                    "posicion": "MO",
+                    "altura": "173",
+                    "edad": "31",
+                    "pie": "D",
+                    "valoracion": "80",
+                    "foto": null
+                },
+                {
+                    "nombre": "Atawalpa, Yupan",
+                    "posicion": "SD",
+                    "altura": "177",
+                    "edad": "29",
+                    "pie": "I",
+                    "valoracion": "73",
+                    "foto": null
+                },
+                {
+                    "nombre": "Guanca, Pedro",
+                    "posicion": "MCD",
+                    "altura": "175",
+                    "edad": "26",
+                    "pie": "D",
+                    "valoracion": "79",
+                    "foto": null
+                },
+                {
+                    "nombre": "Cueto, Patricio",
+                    "posicion": "DC",
+                    "altura": "184",
+                    "edad": "35",
+                    "pie": "I",
+                    "valoracion": "81",
+                    "foto": null
+                },
+                {
+                    "nombre": "Fleurquin, Maximiliano",
+                    "posicion": "DC",
+                    "altura": "185",
+                    "edad": "28",
+                    "pie": "D",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "McLaughllin, Matthew",
+                    "posicion": "SD, MO, EXI, EXD, DC, MD",
+                    "altura": "180",
+                    "edad": "24",
+                    "pie": "D",
+                    "valoracion": "75",
+                    "foto": null
+                }
+            ],
+            "escudo": null
+        },
+        {
+            "nombre": "Asociación Alburgo de Maltania",
+            "color": "?",
+            "fundacion": "20 de diciembre de 2010",
+            "estadio": "Central Alburgo de Maltania",
+            "capacidad": "17.200",
+            "entrenador": "Damián Welder",
+            "rivalidades": [
+                "Leones Verdes"
+            ],
+            "jugadores": [
+                {
+                    "nombre": "Peterota, Dario",
+                    "posicion": "ARQ",
+                    "altura": "189",
+                    "edad": "33",
+                    "pie": "D",
+                    "valoracion": "69",
+                    "foto": null
+                },
+                {
+                    "nombre": "Jovinelli, Luca",
+                    "posicion": "ARQ",
+                    "altura": "194",
+                    "edad": "17",
+                    "pie": "I",
+                    "valoracion": "72",
+                    "foto": null
+                },
+                {
+                    "nombre": "Fiorentini, Mario",
+                    "posicion": "DFC",
+                    "altura": "185",
+                    "edad": "28",
+                    "pie": "I",
+                    "valoracion": "72",
+                    "foto": null
+                },
+                {
+                    "nombre": "Kolov, Franco",
+                    "posicion": "DFC",
+                    "altura": "193",
+                    "edad": "31",
+                    "pie": "D",
+                    "valoracion": "70",
+                    "foto": null
+                },
+                {
+                    "nombre": "Ness, Carlton",
+                    "posicion": "DFC",
+                    "altura": "185",
+                    "edad": "25",
+                    "pie": "D",
+                    "valoracion": "62",
+                    "foto": null
+                },
+                {
+                    "nombre": "Peñalba, Pablo",
+                    "posicion": "DFC",
+                    "altura": "180",
+                    "edad": "32",
+                    "pie": "D",
+                    "valoracion": "68",
+                    "foto": null
+                },
+                {
+                    "nombre": "Sosa, Gabriel",
+                    "posicion": "LD",
+                    "altura": "181",
+                    "edad": "30",
+                    "pie": "D",
+                    "valoracion": "69",
+                    "foto": null
+                },
+                {
+                    "nombre": "Mabey, Cixto",
+                    "posicion": "LD",
+                    "altura": "177",
+                    "edad": "29",
+                    "pie": "D",
+                    "valoracion": "71",
+                    "foto": null
+                },
+                {
+                    "nombre": "Rodríguez, Luis",
+                    "posicion": "LI",
+                    "altura": "182",
+                    "edad": "28",
+                    "pie": "I",
+                    "valoracion": "70",
+                    "foto": null
+                },
+                {
+                    "nombre": "Bjarnason, Israel",
+                    "posicion": "LI",
+                    "altura": "181",
+                    "edad": "29",
+                    "pie": "I",
+                    "valoracion": "58",
+                    "foto": null
+                },
+                {
+                    "nombre": "Gómez, Fernando",
+                    "posicion": "LI",
+                    "altura": "178",
+                    "edad": "33",
+                    "pie": "I",
+                    "valoracion": "62",
+                    "foto": null
+                },
+                {
+                    "nombre": "Zumata, Carlos",
+                    "posicion": "MCD",
+                    "altura": "185",
+                    "edad": "28",
+                    "pie": "D",
+                    "valoracion": "73",
+                    "foto": null
+                },
+                {
+                    "nombre": "Enstero, Germán",
+                    "posicion": "MCD",
+                    "altura": "178",
+                    "edad": "26",
+                    "pie": "D",
+                    "valoracion": "67",
+                    "foto": null
+                },
+                {
+                    "nombre": "Dalbate, Teodoro",
+                    "posicion": "MC",
+                    "altura": "177",
+                    "edad": "32",
+                    "pie": "I",
+                    "valoracion": "73",
+                    "foto": null
+                },
+                {
+                    "nombre": "Turker, Yamil",
+                    "posicion": "MC",
+                    "altura": "180",
+                    "edad": "26",
+                    "pie": "A",
+                    "valoracion": "62",
+                    "foto": null
+                },
+                {
+                    "nombre": "Rose, Damian",
+                    "posicion": "MC",
+                    "altura": "177",
+                    "edad": "29",
+                    "pie": "D",
+                    "valoracion": "77",
+                    "foto": null
+                },
+                {
+                    "nombre": "Gómez, Ulises",
+                    "posicion": "MC",
+                    "altura": "175",
+                    "edad": "25",
+                    "pie": "I",
+                    "valoracion": "60",
+                    "foto": null
+                },
+                {
+                    "nombre": "Hadingham, Blaz",
+                    "posicion": "MC",
+                    "altura": "180",
+                    "edad": "30",
+                    "pie": "A",
+                    "valoracion": "72",
+                    "foto": null
+                },
+                {
+                    "nombre": "Gaudeane, Ramiro",
+                    "posicion": "MO",
+                    "altura": "178",
+                    "edad": "35",
+                    "pie": "D",
+                    "valoracion": "73",
+                    "foto": null
+                },
+                {
+                    "nombre": "Quiñónez, Pedro",
+                    "posicion": "MO",
+                    "altura": "171",
+                    "edad": "32",
+                    "pie": "I",
+                    "valoracion": "68",
+                    "foto": null
+                },
+                {
+                    "nombre": "Fulei, Ramiro",
+                    "posicion": "DC",
+                    "altura": "188",
+                    "edad": "33",
+                    "pie": "D",
+                    "valoracion": "72",
+                    "foto": null
+                },
+                {
+                    "nombre": "Acosta, Luis",
+                    "posicion": "DC",
+                    "altura": "182",
+                    "edad": "33",
+                    "pie": "D",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Knežević, Mario",
+                    "posicion": "DC",
+                    "altura": "190",
+                    "edad": "31",
+                    "pie": "D",
+                    "valoracion": "62",
+                    "foto": null
+                },
+                {
+                    "nombre": "Barraza, Jacinto",
+                    "posicion": "DC",
+                    "altura": "194",
+                    "edad": "17",
+                    "pie": "D",
+                    "valoracion": "67",
+                    "foto": null
+                },
+                {
+                    "nombre": "Igobet, Ignacio",
+                    "posicion": "DC",
+                    "altura": "180",
+                    "edad": "36",
+                    "pie": "D",
+                    "valoracion": "73",
+                    "foto": null
+                }
+            ],
+            "escudo": null
+        },
+        {
+            "nombre": "Athletic Club Tigers",
+            "color": "?",
+            "fundacion": "26 de diciembre de 1908",
+            "estadio": "Estadio Germán Legerson",
+            "capacidad": "72.000",
+            "entrenador": "Germán Legerson",
+            "rivalidades": [
+                "Lions"
+            ],
+            "jugadores": [
+                {
+                    "nombre": "Sedano, Pablo",
+                    "posicion": "ARQ",
+                    "altura": "185",
+                    "edad": "27",
+                    "pie": "D",
+                    "valoracion": "85",
+                    "foto": null
+                },
+                {
+                    "nombre": "Cruzero, Josué",
+                    "posicion": "ARQ",
+                    "altura": "177",
+                    "edad": "35",
+                    "pie": "D",
+                    "valoracion": "69",
+                    "foto": null
+                },
+                {
+                    "nombre": "Splitten, Eric",
+                    "posicion": "DFC",
+                    "altura": "188",
+                    "edad": "24",
+                    "pie": "I",
+                    "valoracion": "86",
+                    "foto": null
+                },
+                {
+                    "nombre": "Junk, Heinz",
+                    "posicion": "DFC",
+                    "altura": "190",
+                    "edad": "17",
+                    "pie": "I",
+                    "valoracion": "72",
+                    "foto": null
+                },
+                {
+                    "nombre": "Cruncher, Rock",
+                    "posicion": "DFC",
+                    "altura": "189",
+                    "edad": "31",
+                    "pie": "D",
+                    "valoracion": "84",
+                    "foto": null
+                },
+                {
+                    "nombre": "Bravo, Joaquin",
+                    "posicion": "DFC",
+                    "altura": "190",
+                    "edad": "22",
+                    "pie": "I",
+                    "valoracion": "79",
+                    "foto": null
+                },
+                {
+                    "nombre": "De la Vara, Joaquín",
+                    "posicion": "LD, MD, MCD",
+                    "altura": "174",
+                    "edad": "27",
+                    "pie": "D",
+                    "valoracion": "76",
+                    "foto": null
+                },
+                {
+                    "nombre": "Legal, Nahuel",
+                    "posicion": "LD, LI, MD, MI",
+                    "altura": "170",
+                    "edad": "29",
+                    "pie": "A",
+                    "valoracion": "89",
+                    "foto": null
+                },
+                {
+                    "nombre": "Ruvecayro, Rodrigo",
+                    "posicion": "LI, MI",
+                    "altura": "173",
+                    "edad": "27",
+                    "pie": "I",
+                    "valoracion": "85",
+                    "foto": null
+                },
+                {
+                    "nombre": "Verdura, Pedro",
+                    "posicion": "LI",
+                    "altura": "179",
+                    "edad": "17",
+                    "pie": "I",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Elxhaper, Manuel",
+                    "posicion": "MCD, MC",
+                    "altura": "175",
+                    "edad": "28",
+                    "pie": "D",
+                    "valoracion": "84",
+                    "foto": null
+                },
+                {
+                    "nombre": "Cortez, Gabriel",
+                    "posicion": "MC",
+                    "altura": "182",
+                    "edad": "24",
+                    "pie": "I",
+                    "valoracion": "85",
+                    "foto": null
+                },
+                {
+                    "nombre": "Hortzard, Ben",
+                    "posicion": "MC",
+                    "altura": "182",
+                    "edad": "33",
+                    "pie": "I",
+                    "valoracion": "88",
+                    "foto": null
+                },
+                {
+                    "nombre": "Varrick, Jarek",
+                    "posicion": "MCD",
+                    "altura": "190",
+                    "edad": "30",
+                    "pie": "D",
+                    "valoracion": "88",
+                    "foto": null
+                },
+                {
+                    "nombre": "Gómez, Claudio",
+                    "posicion": "MI, LI, MC",
+                    "altura": "174",
+                    "edad": "30",
+                    "pie": "I",
+                    "valoracion": "71",
+                    "foto": null
+                },
+                {
+                    "nombre": "Boobs, Big",
+                    "posicion": "MC",
+                    "altura": "192",
+                    "edad": "17",
+                    "pie": "D",
+                    "valoracion": "81",
+                    "foto": null
+                },
+                {
+                    "nombre": "Piza, Valentin",
+                    "posicion": "MC, MD, MO, EXD, DC",
+                    "altura": "178",
+                    "edad": "19",
+                    "pie": "D",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Charvick, Robert",
+                    "posicion": "MO",
+                    "altura": "181",
+                    "edad": "36",
+                    "pie": "D",
+                    "valoracion": "79",
+                    "foto": null
+                },
+                {
+                    "nombre": "Irpaemikha, Ramiro",
+                    "posicion": "SD, EXI, MI, DC",
+                    "altura": "182",
+                    "edad": "25",
+                    "pie": "I",
+                    "valoracion": "89",
+                    "foto": null
+                },
+                {
+                    "nombre": "Papas, Michael",
+                    "posicion": "DC",
+                    "altura": "179",
+                    "edad": "31",
+                    "pie": "D",
+                    "valoracion": "92",
+                    "foto": null
+                },
+                {
+                    "nombre": "Sikkak, Alperen",
+                    "posicion": "DC",
+                    "altura": "189",
+                    "edad": "32",
+                    "pie": "D",
+                    "valoracion": "77",
+                    "foto": null
+                },
+                {
+                    "nombre": "Błaszczyk, Maksymilian",
+                    "posicion": "EXI",
+                    "altura": "184",
+                    "edad": "17",
+                    "pie": "D",
+                    "valoracion": "82",
+                    "foto": null
+                },
+                {
+                    "nombre": "Papas, Tom",
+                    "posicion": "DC, SD",
+                    "altura": "180",
+                    "edad": "26",
+                    "pie": "I",
+                    "valoracion": "85",
+                    "foto": null
+                }
+            ],
+            "escudo": null
+        },
+        {
+            "nombre": "Black Dragons Fútbol Club",
+            "color": "?",
+            "fundacion": "8 de julio 1940",
+            "estadio": "Estadio De Pachuqui",
+            "capacidad": "52.000",
+            "entrenador": "Sergio Datado",
+            "rivalidades": [
+                "White Dragons"
+            ],
+            "jugadores": [
+                {
+                    "nombre": "Huamán, Waskhar",
+                    "posicion": "ARQ",
+                    "altura": "187",
+                    "edad": "28",
+                    "pie": "I",
+                    "valoracion": "84",
+                    "foto": null
+                },
+                {
+                    "nombre": "Veja, Ramiro",
+                    "posicion": "ARQ",
+                    "altura": "178",
+                    "edad": "29",
+                    "pie": "I",
+                    "valoracion": "68",
+                    "foto": null
+                },
+                {
+                    "nombre": "Jarti, Ramón",
+                    "posicion": "DFC",
+                    "altura": "188",
+                    "edad": "31",
+                    "pie": "D",
+                    "valoracion": "79",
+                    "foto": null
+                },
+                {
+                    "nombre": "Pomizzo, Kent",
+                    "posicion": "DFC",
+                    "altura": "190",
+                    "edad": "23",
+                    "pie": "I",
+                    "valoracion": "77",
+                    "foto": null
+                },
+                {
+                    "nombre": "Dilf, Henrique",
+                    "posicion": "DFC",
+                    "altura": "175",
+                    "edad": "24",
+                    "pie": "I",
+                    "valoracion": "72",
+                    "foto": null
+                },
+                {
+                    "nombre": "Vizquerino, Roberto",
+                    "posicion": "DFC",
+                    "altura": "179",
+                    "edad": "28",
+                    "pie": "D",
+                    "valoracion": "73",
+                    "foto": null
+                },
+                {
+                    "nombre": "Ventus, Victorino",
+                    "posicion": "LD",
+                    "altura": "185",
+                    "edad": "24",
+                    "pie": "D",
+                    "valoracion": "76",
+                    "foto": null
+                },
+                {
+                    "nombre": "Santos, Austin Agustin",
+                    "posicion": "LD",
+                    "altura": "?",
+                    "edad": "17",
+                    "pie": "?",
+                    "valoracion": "73",
+                    "foto": null
+                },
+                {
+                    "nombre": "Pinillo, Carlos",
+                    "posicion": "DFC, LI",
+                    "altura": "189",
+                    "edad": "28",
+                    "pie": "D",
+                    "valoracion": "79",
+                    "foto": null
+                },
+                {
+                    "nombre": "Aragão, Noah",
+                    "posicion": "LI",
+                    "altura": "186",
+                    "edad": "22",
+                    "pie": "I",
+                    "valoracion": "77",
+                    "foto": null
+                },
+                {
+                    "nombre": "Taglialatela, Nicolas",
+                    "posicion": "MCD",
+                    "altura": "177",
+                    "edad": "28",
+                    "pie": "I",
+                    "valoracion": "83",
+                    "foto": null
+                },
+                {
+                    "nombre": "Quvert, Tim",
+                    "posicion": "MC",
+                    "altura": "177",
+                    "edad": "32",
+                    "pie": "D",
+                    "valoracion": "82",
+                    "foto": null
+                },
+                {
+                    "nombre": "Brand, Eseoghene",
+                    "posicion": "MC",
+                    "altura": "188",
+                    "edad": "19",
+                    "pie": "D",
+                    "valoracion": "72",
+                    "foto": null
+                },
+                {
+                    "nombre": "Shen, Nasus",
+                    "posicion": "MC",
+                    "altura": "189",
+                    "edad": "18",
+                    "pie": "A",
+                    "valoracion": "69",
+                    "foto": null
+                },
+                {
+                    "nombre": "Alistar, Eamon",
+                    "posicion": "MC",
+                    "altura": "179",
+                    "edad": "27",
+                    "pie": "I",
+                    "valoracion": "80",
+                    "foto": null
+                },
+                {
+                    "nombre": "Corral, Julian",
+                    "posicion": "MC",
+                    "altura": "173",
+                    "edad": "22",
+                    "pie": "D",
+                    "valoracion": "77",
+                    "foto": null
+                },
+                {
+                    "nombre": "Pratas, Edmundo",
+                    "posicion": "MO",
+                    "altura": "185",
+                    "edad": "17",
+                    "pie": "D",
+                    "valoracion": "73",
+                    "foto": null
+                },
+                {
+                    "nombre": "Madara, Isuna",
+                    "posicion": "MO",
+                    "altura": "174",
+                    "edad": "36",
+                    "pie": "D",
+                    "valoracion": "83",
+                    "foto": null
+                },
+                {
+                    "nombre": "Enthios, Athan",
+                    "posicion": "SD",
+                    "altura": "182",
+                    "edad": "30",
+                    "pie": "I",
+                    "valoracion": "77",
+                    "foto": null
+                },
+                {
+                    "nombre": "Iriarte, Nahuel",
+                    "posicion": "DC",
+                    "altura": "188",
+                    "edad": "33",
+                    "pie": "I",
+                    "valoracion": "84",
+                    "foto": null
+                },
+                {
+                    "nombre": "ChóChó",
+                    "posicion": "DC",
+                    "altura": "185",
+                    "edad": "29",
+                    "pie": "D",
+                    "valoracion": "74",
+                    "foto": null
+                },
+                {
+                    "nombre": "Londoño, Sebastian",
+                    "posicion": "SD, EXD, DC, EXI",
+                    "altura": "178",
+                    "edad": "24",
+                    "pie": "D",
+                    "valoracion": "79",
+                    "foto": null
+                },
+                {
+                    "nombre": "De Pachuqui, Alejandro",
+                    "posicion": "DC",
+                    "altura": "182",
+                    "edad": "30",
+                    "pie": "D",
+                    "valoracion": "92",
+                    "foto": null
+                }
+            ],
+            "escudo": null
+        },
+        {
+            "nombre": "Breffud Club de Fútbol",
+            "color": "?",
+            "fundacion": "4 de mayo de 1915",
+            "estadio": "Comandante Breffud",
+            "capacidad": "48.000",
+            "entrenador": "Julián Casares",
+            "rivalidades": [
+                "Liberty C. de F."
+            ],
+            "jugadores": [
+                {
+                    "nombre": "Bolinoc, Mert",
+                    "posicion": "ARQ",
+                    "altura": "191",
+                    "edad": "31",
+                    "pie": "D",
+                    "valoracion": "76",
+                    "foto": null
+                },
+                {
+                    "nombre": "Lazoni, Esteban",
+                    "posicion": "ARQ",
+                    "altura": "186",
+                    "edad": "33",
+                    "pie": "D",
+                    "valoracion": "61",
+                    "foto": null
+                },
+                {
+                    "nombre": "Henle, Claudio",
+                    "posicion": "DFC",
+                    "altura": "184",
+                    "edad": "36",
+                    "pie": "D",
+                    "valoracion": "70",
+                    "foto": null
+                },
+                {
+                    "nombre": "Rossi, Marco",
+                    "posicion": "DFC",
+                    "altura": "191",
+                    "edad": "33",
+                    "pie": "I",
+                    "valoracion": "74",
+                    "foto": null
+                },
+                {
+                    "nombre": "Yakuku, Manko",
+                    "posicion": "DFC, LD, MCD",
+                    "altura": "185",
+                    "edad": "32",
+                    "pie": "I",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Rawibiz, Erik",
+                    "posicion": "DFC",
+                    "altura": "182",
+                    "edad": "36",
+                    "pie": "D",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Tronchinha, Máximo",
+                    "posicion": "LI",
+                    "altura": "182",
+                    "edad": "17",
+                    "pie": "I",
+                    "valoracion": "68",
+                    "foto": null
+                },
+                {
+                    "nombre": "Pem, Kalevi",
+                    "posicion": "LI, MI, EXI",
+                    "altura": "178",
+                    "edad": "31",
+                    "pie": "I",
+                    "valoracion": "82",
+                    "foto": null
+                },
+                {
+                    "nombre": "Antonio, Ángel",
+                    "posicion": "LD",
+                    "altura": "184",
+                    "edad": "32",
+                    "pie": "D",
+                    "valoracion": "79",
+                    "foto": null
+                },
+                {
+                    "nombre": "Huidouir, Katsaroglou",
+                    "posicion": "LD",
+                    "altura": "178",
+                    "edad": "33",
+                    "pie": "D",
+                    "valoracion": "73",
+                    "foto": null
+                },
+                {
+                    "nombre": "Barragan, Ricardo",
+                    "posicion": "MCD, MC",
+                    "altura": "178",
+                    "edad": "30",
+                    "pie": "D",
+                    "valoracion": "74",
+                    "foto": null
+                },
+                {
+                    "nombre": "Martins, Ricardo",
+                    "posicion": "MC",
+                    "altura": "177",
+                    "edad": "30",
+                    "pie": "D",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Cuevas, Fernando",
+                    "posicion": "MC",
+                    "altura": "176",
+                    "edad": "33",
+                    "pie": "D",
+                    "valoracion": "79",
+                    "foto": null
+                },
+                {
+                    "nombre": "Penna, Ezequiel",
+                    "posicion": "MC, MCD, MI, MD",
+                    "altura": "173",
+                    "edad": "25",
+                    "pie": "D",
+                    "valoracion": "78",
+                    "foto": null
+                },
+                {
+                    "nombre": "Penna, Thomas",
+                    "posicion": "MO, MC, SD, MI, MD",
+                    "altura": "178",
+                    "edad": "28",
+                    "pie": "D",
+                    "valoracion": "77",
+                    "foto": null
+                },
+                {
+                    "nombre": "Ojquera, Alfredo",
+                    "posicion": "SD, MO, MC",
+                    "altura": "173",
+                    "edad": "37",
+                    "pie": "I",
+                    "valoracion": "81",
+                    "foto": null
+                },
+                {
+                    "nombre": "Toyllo, Nahuel",
+                    "posicion": "MC, MI, MD, SD",
+                    "altura": "175",
+                    "edad": "29",
+                    "pie": "D",
+                    "valoracion": "84",
+                    "foto": null
+                },
+                {
+                    "nombre": "Monnet Paquet, Nivek",
+                    "posicion": "SD, DC",
+                    "altura": "180",
+                    "edad": "31",
+                    "pie": "D",
+                    "valoracion": "82",
+                    "foto": null
+                },
+                {
+                    "nombre": "Basli, Suerdem",
+                    "posicion": "SD",
+                    "altura": "176",
+                    "edad": "33",
+                    "pie": "D",
+                    "valoracion": "74",
+                    "foto": null
+                },
+                {
+                    "nombre": "Kodro, Kevin",
+                    "posicion": "DC",
+                    "altura": "188",
+                    "edad": "29",
+                    "pie": "D",
+                    "valoracion": "72",
+                    "foto": null
+                },
+                {
+                    "nombre": "Zapico, Mariano",
+                    "posicion": "DC",
+                    "altura": "180",
+                    "edad": "30",
+                    "pie": "D",
+                    "valoracion": "83",
+                    "foto": null
+                }
+            ],
+            "escudo": null
+        },
+        {
+            "nombre": "Chambo Fútbol Club",
+            "color": "Azul y naranja",
+            "fundacion": "8 de septiembre de 1905",
+            "estadio": "Municipal de Isla Miltrán",
+            "capacidad": "53.200",
+            "entrenador": "Gastón Fiorda",
+            "rivalidades": [
+                "Kentucky F.C",
+                "Lions"
+            ],
+            "jugadores": [
+                {
+                    "nombre": "Rutigliano, Dario",
+                    "posicion": "ARQ",
+                    "altura": "187",
+                    "edad": "31",
+                    "pie": "D",
+                    "valoracion": "81",
+                    "foto": null
+                },
+                {
+                    "nombre": "Villegas, Ramiro",
+                    "posicion": "ARQ",
+                    "altura": "194",
+                    "edad": "18",
+                    "pie": "I",
+                    "valoracion": "67",
+                    "foto": null
+                },
+                {
+                    "nombre": "Alvar, Alan",
+                    "posicion": "DFC",
+                    "altura": "188",
+                    "edad": "30",
+                    "pie": "I",
+                    "valoracion": "84",
+                    "foto": null
+                },
+                {
+                    "nombre": "Madeiros, Pedro",
+                    "posicion": "DFC",
+                    "altura": "194",
+                    "edad": "29",
+                    "pie": "D",
+                    "valoracion": "79",
+                    "foto": null
+                },
+                {
+                    "nombre": "Irimia, Cisco",
+                    "posicion": "DFC",
+                    "altura": "198",
+                    "edad": "26",
+                    "pie": "A",
+                    "valoracion": "76",
+                    "foto": null
+                },
+                {
+                    "nombre": "Struck, George",
+                    "posicion": "DFC",
+                    "altura": "188",
+                    "edad": "33",
+                    "pie": "D",
+                    "valoracion": "84",
+                    "foto": null
+                },
+                {
+                    "nombre": "Dapem, Zlatko",
+                    "posicion": "LI",
+                    "altura": "173",
+                    "edad": "27",
+                    "pie": "I",
+                    "valoracion": "82",
+                    "foto": null
+                },
+                {
+                    "nombre": "McHalliston Jr.",
+                    "posicion": "LI, LD",
+                    "altura": "178",
+                    "edad": "25",
+                    "pie": "D",
+                    "valoracion": "77",
+                    "foto": null
+                },
+                {
+                    "nombre": "Oliveira, Vinicius",
+                    "posicion": "LD, MD",
+                    "altura": "175",
+                    "edad": "29",
+                    "pie": "D",
+                    "valoracion": "82",
+                    "foto": null
+                },
+                {
+                    "nombre": "Tanodi, Matias",
+                    "posicion": "LD",
+                    "altura": "182",
+                    "edad": "36",
+                    "pie": "D",
+                    "valoracion": "79",
+                    "foto": null
+                },
+                {
+                    "nombre": "Talavera, Leandro",
+                    "posicion": "MCD, MC",
+                    "altura": "175",
+                    "edad": "25",
+                    "pie": "D",
+                    "valoracion": "88",
+                    "foto": null
+                },
+                {
+                    "nombre": "Rantoa, Fernando",
+                    "posicion": "MCD, MC",
+                    "altura": "180",
+                    "edad": "39",
+                    "pie": "D",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Aramburu Reyes, Paolo",
+                    "posicion": "MC",
+                    "altura": "178",
+                    "edad": "34",
+                    "pie": "I",
+                    "valoracion": "77",
+                    "foto": null
+                },
+                {
+                    "nombre": "Zarate, Tomás",
+                    "posicion": "MC, MO, SD",
+                    "altura": "182",
+                    "edad": "31",
+                    "pie": "A",
+                    "valoracion": "85",
+                    "foto": null
+                },
+                {
+                    "nombre": "Martinez Guillén, Fernando",
+                    "posicion": "MC, MCD, MO",
+                    "altura": "180",
+                    "edad": "21",
+                    "pie": "D",
+                    "valoracion": "86",
+                    "foto": null
+                },
+                {
+                    "nombre": "Sperione, Axel",
+                    "posicion": "MC, MO",
+                    "altura": "172",
+                    "edad": "20",
+                    "pie": "D",
+                    "valoracion": "84",
+                    "foto": null
+                },
+                {
+                    "nombre": "Guzzo, Milton",
+                    "posicion": "MO, SD, MC, DC",
+                    "altura": "180",
+                    "edad": "29",
+                    "pie": "D",
+                    "valoracion": "88",
+                    "foto": null
+                },
+                {
+                    "nombre": "Villalba, Joaquín",
+                    "posicion": "SD, EXD, MC, MD",
+                    "altura": "170",
+                    "edad": "20",
+                    "pie": "I",
+                    "valoracion": "72",
+                    "foto": null
+                },
+                {
+                    "nombre": "Ballester, Diego",
+                    "posicion": "SD, EXI, EXD, MI, MD",
+                    "altura": "173",
+                    "edad": "23",
+                    "pie": "D",
+                    "valoracion": "81",
+                    "foto": null
+                },
+                {
+                    "nombre": "Padrnos, Miroslawy",
+                    "posicion": "MC, MI, EXI, MO",
+                    "altura": "185",
+                    "edad": "37",
+                    "pie": "I",
+                    "valoracion": "78",
+                    "foto": null
+                },
+                {
+                    "nombre": "dos Reis, Firvaldo",
+                    "posicion": "SD, MO, EXI, EXD, DC",
+                    "altura": "182",
+                    "edad": "21",
+                    "pie": "A",
+                    "valoracion": "76",
+                    "foto": null
+                },
+                {
+                    "nombre": "Minarech, Pablo",
+                    "posicion": "DC",
+                    "altura": "187",
+                    "edad": "28",
+                    "pie": "D",
+                    "valoracion": "83",
+                    "foto": null
+                },
+                {
+                    "nombre": "Eris, Diego",
+                    "posicion": "DC",
+                    "altura": "190",
+                    "edad": "36",
+                    "pie": "D",
+                    "valoracion": "78",
+                    "foto": null
+                }
+            ],
+            "escudo": null
+        },
+        {
+            "nombre": "Club Atlético Akatsuki",
+            "color": "?",
+            "fundacion": "5 de noviembre 1928",
+            "estadio": "General Uchiha",
+            "capacidad": "45.000",
+            "entrenador": "Ramiro Senju",
+            "rivalidades": [],
+            "jugadores": [
+                {
+                    "nombre": "Barbera, Agustín",
+                    "posicion": "ARQ",
+                    "altura": "178",
+                    "edad": "28",
+                    "pie": "D",
+                    "valoracion": "77",
+                    "foto": null
+                },
+                {
+                    "nombre": "Van der Velden, Mark",
+                    "posicion": "ARQ",
+                    "altura": "180",
+                    "edad": "35",
+                    "pie": "D",
+                    "valoracion": "65",
+                    "foto": null
+                },
+                {
+                    "nombre": "Hidan, Hernán",
+                    "posicion": "DFC",
+                    "altura": "174",
+                    "edad": "30",
+                    "pie": "I",
+                    "valoracion": "72",
+                    "foto": null
+                },
+                {
+                    "nombre": "Gaara, Sand",
+                    "posicion": "DFC",
+                    "altura": "192",
+                    "edad": "17",
+                    "pie": "I",
+                    "valoracion": "74",
+                    "foto": null
+                },
+                {
+                    "nombre": "Chipidubi, Rogelio",
+                    "posicion": "DFC",
+                    "altura": "193",
+                    "edad": "25",
+                    "pie": "D",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Deidara, Sakuhin",
+                    "posicion": "LD",
+                    "altura": "177",
+                    "edad": "29",
+                    "pie": "D",
+                    "valoracion": "72",
+                    "foto": null
+                },
+                {
+                    "nombre": "Nazahara, Sawako",
+                    "posicion": "LD, LI",
+                    "altura": "174",
+                    "edad": "20",
+                    "pie": "D",
+                    "valoracion": "69",
+                    "foto": null
+                },
+                {
+                    "nombre": "López, Esteban",
+                    "posicion": "LI",
+                    "altura": "178",
+                    "edad": "34",
+                    "pie": "I",
+                    "valoracion": "79",
+                    "foto": null
+                },
+                {
+                    "nombre": "Greco, Dante",
+                    "posicion": "LI",
+                    "altura": "181",
+                    "edad": "22",
+                    "pie": "I",
+                    "valoracion": "69",
+                    "foto": null
+                },
+                {
+                    "nombre": "Murphy, Kyle",
+                    "posicion": "MCD",
+                    "altura": "180",
+                    "edad": "28",
+                    "pie": "D",
+                    "valoracion": "78",
+                    "foto": null
+                },
+                {
+                    "nombre": "Obito, Jubii",
+                    "posicion": "MC",
+                    "altura": "177",
+                    "edad": "29",
+                    "pie": "I",
+                    "valoracion": "72",
+                    "foto": null
+                },
+                {
+                    "nombre": "Stronzoduro, Arturo",
+                    "posicion": "MC",
+                    "altura": "180",
+                    "edad": "34",
+                    "pie": "D",
+                    "valoracion": "77",
+                    "foto": null
+                },
+                {
+                    "nombre": "Mikhailovna Kujou, Ali",
+                    "posicion": "MC",
+                    "altura": "185",
+                    "edad": "17",
+                    "pie": "I",
+                    "valoracion": "71",
+                    "foto": null
+                },
+                {
+                    "nombre": "Kakuzu, Hata",
+                    "posicion": "MC",
+                    "altura": "180",
+                    "edad": "29",
+                    "pie": "D",
+                    "valoracion": "71",
+                    "foto": null
+                },
+                {
+                    "nombre": "Vergil, Neo",
+                    "posicion": "MC",
+                    "altura": "169",
+                    "edad": "21",
+                    "pie": "D",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Daminowicz, Julien",
+                    "posicion": "MC",
+                    "altura": "178",
+                    "edad": "21",
+                    "pie": "D",
+                    "valoracion": "76",
+                    "foto": null
+                },
+                {
+                    "nombre": "Arsenio, Robert",
+                    "posicion": "EXI",
+                    "altura": "183",
+                    "edad": "19",
+                    "pie": "I",
+                    "valoracion": "71",
+                    "foto": null
+                },
+                {
+                    "nombre": "Itachi, Uchi",
+                    "posicion": "SD, EXD",
+                    "altura": "178",
+                    "edad": "31",
+                    "pie": "D",
+                    "valoracion": "76",
+                    "foto": null
+                },
+                {
+                    "nombre": "Kisame, Hoshigaki",
+                    "posicion": "DC",
+                    "altura": "195",
+                    "edad": "30",
+                    "pie": "I",
+                    "valoracion": "78",
+                    "foto": null
+                },
+                {
+                    "nombre": "Legal, Rubén",
+                    "posicion": "DC",
+                    "altura": "179",
+                    "edad": "45",
+                    "pie": "D",
+                    "valoracion": "67",
+                    "foto": null
+                },
+                {
+                    "nombre": "Dante, Zacarías",
+                    "posicion": "DC",
+                    "altura": "185",
+                    "edad": "38",
+                    "pie": "I",
+                    "valoracion": "78",
+                    "foto": null
+                },
+                {
+                    "nombre": "Vlatokov, Robert",
+                    "posicion": "DC",
+                    "altura": "185",
+                    "edad": "33",
+                    "pie": "I",
+                    "valoracion": "75",
+                    "foto": null
+                }
+            ],
+            "escudo": null
+        },
+        {
+            "nombre": "Club Atlético Gatunos",
+            "color": "?",
+            "fundacion": "12 de marzo de 1952",
+            "estadio": "Estadio Whiskas",
+            "capacidad": "21.000",
+            "entrenador": "Lautaro Perfumo",
+            "rivalidades": [
+                "Perrunos"
+            ],
+            "jugadores": [
+                {
+                    "nombre": "Mannoia, Adriano",
+                    "posicion": "ARQ",
+                    "altura": "187",
+                    "edad": "38",
+                    "pie": "D",
+                    "valoracion": "78",
+                    "foto": null
+                },
+                {
+                    "nombre": "Thelion, Javier",
+                    "posicion": "ARQ",
+                    "altura": "190",
+                    "edad": "17",
+                    "pie": "D",
+                    "valoracion": "67",
+                    "foto": null
+                },
+                {
+                    "nombre": "Curawski, Miroslaw",
+                    "posicion": "DFC",
+                    "altura": "186",
+                    "edad": "31",
+                    "pie": "D",
+                    "valoracion": "76",
+                    "foto": null
+                },
+                {
+                    "nombre": "Foras, Santiago",
+                    "posicion": "DFC, LI",
+                    "altura": "177",
+                    "edad": "25",
+                    "pie": "I",
+                    "valoracion": "72",
+                    "foto": null
+                },
+                {
+                    "nombre": "Sardino, Leandro",
+                    "posicion": "DFC",
+                    "altura": "179",
+                    "edad": "28",
+                    "pie": "D",
+                    "valoracion": "77",
+                    "foto": null
+                },
+                {
+                    "nombre": "Laci, Roberto",
+                    "posicion": "DFC",
+                    "altura": "182",
+                    "edad": "28",
+                    "pie": "I",
+                    "valoracion": "79",
+                    "foto": null
+                },
+                {
+                    "nombre": "Tinchorz, Martín",
+                    "posicion": "DFC",
+                    "altura": "188",
+                    "edad": "29",
+                    "pie": "I",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Oñante, Jefferson",
+                    "posicion": "LD",
+                    "altura": "174",
+                    "edad": "27",
+                    "pie": "D",
+                    "valoracion": "79",
+                    "foto": null
+                },
+                {
+                    "nombre": "Yulay, Julian",
+                    "posicion": "LD",
+                    "altura": "174",
+                    "edad": "24",
+                    "pie": "D",
+                    "valoracion": "72",
+                    "foto": null
+                },
+                {
+                    "nombre": "Opozembe, Tammy",
+                    "posicion": "LI",
+                    "altura": "180",
+                    "edad": "29",
+                    "pie": "I",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Tirumalessa, Ammid",
+                    "posicion": "MC, MI",
+                    "altura": "178",
+                    "edad": "36",
+                    "pie": "I",
+                    "valoracion": "77",
+                    "foto": null
+                },
+                {
+                    "nombre": "Sarakarya, Udgodner",
+                    "posicion": "MCD",
+                    "altura": "189",
+                    "edad": "17",
+                    "pie": "I",
+                    "valoracion": "70",
+                    "foto": null
+                },
+                {
+                    "nombre": "Marijko, DeDiej",
+                    "posicion": "MO",
+                    "altura": "179",
+                    "edad": "20",
+                    "pie": "D",
+                    "valoracion": "76",
+                    "foto": null
+                },
+                {
+                    "nombre": "Atilio, Paolo",
+                    "posicion": "MC",
+                    "altura": "184",
+                    "edad": "30",
+                    "pie": "D",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Kohout, Alfonz",
+                    "posicion": "MC, MD",
+                    "altura": "174",
+                    "edad": "32",
+                    "pie": "I",
+                    "valoracion": "74",
+                    "foto": null
+                },
+                {
+                    "nombre": "Hernández, Javier",
+                    "posicion": "MC, MCD",
+                    "altura": "180",
+                    "edad": "34",
+                    "pie": "D",
+                    "valoracion": "77",
+                    "foto": null
+                },
+                {
+                    "nombre": "Piofczyk, Herbert",
+                    "posicion": "MC",
+                    "altura": "175",
+                    "edad": "29",
+                    "pie": "D",
+                    "valoracion": "77",
+                    "foto": null
+                },
+                {
+                    "nombre": "Brainless, Gabriel",
+                    "posicion": "MC",
+                    "altura": "177",
+                    "edad": "29",
+                    "pie": "D",
+                    "valoracion": "68",
+                    "foto": null
+                },
+                {
+                    "nombre": "Lasbi, Nahuel",
+                    "posicion": "SD, MC, EXI, EXD",
+                    "altura": "171",
+                    "edad": "23",
+                    "pie": "D",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Frippio, Dario",
+                    "posicion": "DC, MO, SD",
+                    "altura": "178",
+                    "edad": "36",
+                    "pie": "D",
+                    "valoracion": "77",
+                    "foto": null
+                },
+                {
+                    "nombre": "Ramírez, Martín \"Bodoke\"",
+                    "posicion": "DC, SD",
+                    "altura": "192",
+                    "edad": "28",
+                    "pie": "D",
+                    "valoracion": "83",
+                    "foto": null
+                },
+                {
+                    "nombre": "Le Petier, Cohen",
+                    "posicion": "DC, SD",
+                    "altura": "187",
+                    "edad": "18",
+                    "pie": "I",
+                    "valoracion": "73",
+                    "foto": null
+                }
+            ],
+            "escudo": null
+        },
+        {
+            "nombre": "Club Atlético Lions",
+            "color": "?",
+            "fundacion": "21 de mayo de 1908",
+            "estadio": "C.A.L. Arena",
+            "capacidad": "78.000",
+            "entrenador": "Julián Burruga",
+            "rivalidades": [
+                "A.C. Tigers",
+                "Kentucky F.C.",
+                "Fieshida F.C."
+            ],
+            "jugadores": [
+                {
+                    "nombre": "Navas, Ordono \"Pato\"",
+                    "posicion": "ARQ",
+                    "altura": "182",
+                    "edad": "34",
+                    "pie": "D",
+                    "valoracion": "82",
+                    "foto": null
+                },
+                {
+                    "nombre": "Gonsalvo, Adán",
+                    "posicion": "ARQ",
+                    "altura": "181",
+                    "edad": "36",
+                    "pie": "D",
+                    "valoracion": "71",
+                    "foto": null
+                },
+                {
+                    "nombre": "Montes de Oca, Mauro",
+                    "posicion": "DFC",
+                    "altura": "180",
+                    "edad": "28",
+                    "pie": "D",
+                    "valoracion": "84",
+                    "foto": null
+                },
+                {
+                    "nombre": "Ivanov, Jurggan",
+                    "posicion": "DFC",
+                    "altura": "182",
+                    "edad": "28",
+                    "pie": "I",
+                    "valoracion": "88",
+                    "foto": null
+                },
+                {
+                    "nombre": "Minol, Franco",
+                    "posicion": "DFC",
+                    "altura": "186",
+                    "edad": "24",
+                    "pie": "D",
+                    "valoracion": "71",
+                    "foto": null
+                },
+                {
+                    "nombre": "Stincher, Jay",
+                    "posicion": "DFC, MCD, MC",
+                    "altura": "190",
+                    "edad": "40",
+                    "pie": "D",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Campos, Federico",
+                    "posicion": "LI, LD, MI",
+                    "altura": "175",
+                    "edad": "26",
+                    "pie": "A",
+                    "valoracion": "84",
+                    "foto": null
+                },
+                {
+                    "nombre": "Riverá, Federico",
+                    "posicion": "LD, DFC, LI",
+                    "altura": "175",
+                    "edad": "32",
+                    "pie": "D",
+                    "valoracion": "83",
+                    "foto": null
+                },
+                {
+                    "nombre": "Amores, Nicolás",
+                    "posicion": "LI",
+                    "altura": "178",
+                    "edad": "27",
+                    "pie": "I",
+                    "valoracion": "72",
+                    "foto": null
+                },
+                {
+                    "nombre": "Pereira, Lucas",
+                    "posicion": "LD",
+                    "altura": "170",
+                    "edad": "22",
+                    "pie": "D",
+                    "valoracion": "71",
+                    "foto": null
+                },
+                {
+                    "nombre": "Zenak, Genáro",
+                    "posicion": "MCD, MC",
+                    "altura": "174",
+                    "edad": "21",
+                    "pie": "D",
+                    "valoracion": "82",
+                    "foto": null
+                },
+                {
+                    "nombre": "Heredia, Nehuén",
+                    "posicion": "MC, MI, MD, MO",
+                    "altura": "175",
+                    "edad": "28",
+                    "pie": "I",
+                    "valoracion": "87",
+                    "foto": null
+                },
+                {
+                    "nombre": "Grapasbórras, Ricardo",
+                    "posicion": "MC",
+                    "altura": "185",
+                    "edad": "17",
+                    "pie": "I",
+                    "valoracion": "68",
+                    "foto": null
+                },
+                {
+                    "nombre": "Borköglü, Budizlaw",
+                    "posicion": "MC, MD, MI, MO, EXD",
+                    "altura": "180",
+                    "edad": "33",
+                    "pie": "D",
+                    "valoracion": "89",
+                    "foto": null
+                },
+                {
+                    "nombre": "Vynion, Edgar",
+                    "posicion": "MC",
+                    "altura": "171",
+                    "edad": "26",
+                    "pie": "I",
+                    "valoracion": "85",
+                    "foto": null
+                },
+                {
+                    "nombre": "Salsodeli, Nicolo",
+                    "posicion": "MC",
+                    "altura": "183",
+                    "edad": "25",
+                    "pie": "D",
+                    "valoracion": "80",
+                    "foto": null
+                },
+                {
+                    "nombre": "Jobim, Steven",
+                    "posicion": "SD, EXI, EXD, DC",
+                    "altura": "178",
+                    "edad": "31",
+                    "pie": "I",
+                    "valoracion": "91",
+                    "foto": null
+                },
+                {
+                    "nombre": "Mur, Alejandro",
+                    "posicion": "SD, EXD, DC",
+                    "altura": "182",
+                    "edad": "26",
+                    "pie": "I",
+                    "valoracion": "87",
+                    "foto": null
+                },
+                {
+                    "nombre": "Seco, Ignacio",
+                    "posicion": "EXD, SD, EXI",
+                    "altura": "176",
+                    "edad": "22",
+                    "pie": "D",
+                    "valoracion": "73",
+                    "foto": null
+                },
+                {
+                    "nombre": "Matijević, Nedjeljko",
+                    "posicion": "EXI",
+                    "altura": "185",
+                    "edad": "18",
+                    "pie": "D",
+                    "valoracion": "81",
+                    "foto": null
+                },
+                {
+                    "nombre": "Furman, Benito",
+                    "posicion": "DC",
+                    "altura": "183",
+                    "edad": "33",
+                    "pie": "D",
+                    "valoracion": "74",
+                    "foto": null
+                },
+                {
+                    "nombre": "Luizabinho",
+                    "posicion": "DC",
+                    "altura": "186",
+                    "edad": "31",
+                    "pie": "D",
+                    "valoracion": "89",
+                    "foto": null
+                }
+            ],
+            "escudo": null
+        },
+        {
+            "nombre": "Club Atlético Perrunos",
+            "color": "?",
+            "fundacion": "15 de septiembre 1936",
+            "estadio": "Estadio Dog Chow",
+            "capacidad": "25.000",
+            "entrenador": "Mariano Esquivel",
+            "rivalidades": [
+                "Gatunos"
+            ],
+            "jugadores": [
+                {
+                    "nombre": "Libman, Michel",
+                    "posicion": "ARQ",
+                    "altura": "191",
+                    "edad": "31",
+                    "pie": "D",
+                    "valoracion": "67",
+                    "foto": null
+                },
+                {
+                    "nombre": "Pereyra, Matías",
+                    "posicion": "ARQ, DC",
+                    "altura": "193",
+                    "edad": "24",
+                    "pie": "D",
+                    "valoracion": "81",
+                    "foto": null
+                },
+                {
+                    "nombre": "Patez, Julian",
+                    "posicion": "DFC, LI",
+                    "altura": "186",
+                    "edad": "30",
+                    "pie": "I",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Dogo, Alfredo",
+                    "posicion": "DFC, LI, MC",
+                    "altura": "175",
+                    "edad": "22",
+                    "pie": "I",
+                    "valoracion": "67",
+                    "foto": null
+                },
+                {
+                    "nombre": "Swan, Ali",
+                    "posicion": "DFC",
+                    "altura": "192",
+                    "edad": "45",
+                    "pie": "I",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Lacco, Agustin",
+                    "posicion": "DFC, MCD",
+                    "altura": "185",
+                    "edad": "24",
+                    "pie": "D",
+                    "valoracion": "73",
+                    "foto": null
+                },
+                {
+                    "nombre": "Larcheveque, Oleksandr",
+                    "posicion": "DFC",
+                    "altura": "182",
+                    "edad": "37",
+                    "pie": "D",
+                    "valoracion": "78",
+                    "foto": null
+                },
+                {
+                    "nombre": "Dyinga, Marcelo",
+                    "posicion": "LD, MD",
+                    "altura": "177",
+                    "edad": "29",
+                    "pie": "D",
+                    "valoracion": "71",
+                    "foto": null
+                },
+                {
+                    "nombre": "Ryvolo, Oscar",
+                    "posicion": "LI, MI",
+                    "altura": "177",
+                    "edad": "31",
+                    "pie": "I",
+                    "valoracion": "71",
+                    "foto": null
+                },
+                {
+                    "nombre": "Quinchu, Amyr",
+                    "posicion": "LD",
+                    "altura": "175",
+                    "edad": "28",
+                    "pie": "D",
+                    "valoracion": "71",
+                    "foto": null
+                },
+                {
+                    "nombre": "Aquia, Alessio",
+                    "posicion": "LI",
+                    "altura": "178",
+                    "edad": "25",
+                    "pie": "I",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Roth, Peer",
+                    "posicion": "MCD",
+                    "altura": "176",
+                    "edad": "27",
+                    "pie": "I",
+                    "valoracion": "81",
+                    "foto": null
+                },
+                {
+                    "nombre": "Niño, Gaston",
+                    "posicion": "MI, MC, MD",
+                    "altura": "200",
+                    "edad": "17",
+                    "pie": "D",
+                    "valoracion": "67",
+                    "foto": null
+                },
+                {
+                    "nombre": "Menenez, Sebastián",
+                    "posicion": "MC, MI, MD",
+                    "altura": "184",
+                    "edad": "31",
+                    "pie": "D",
+                    "valoracion": "77",
+                    "foto": null
+                },
+                {
+                    "nombre": "Alfonse, Matías",
+                    "posicion": "MC, MI, MD",
+                    "altura": "178",
+                    "edad": "30",
+                    "pie": "I",
+                    "valoracion": "76",
+                    "foto": null
+                },
+                {
+                    "nombre": "Itoshi, Sae",
+                    "posicion": "MC",
+                    "altura": "182",
+                    "edad": "25",
+                    "pie": "I",
+                    "valoracion": "71",
+                    "foto": null
+                },
+                {
+                    "nombre": "Albatroz, Oscar",
+                    "posicion": "MCD, DFC",
+                    "altura": "192",
+                    "edad": "31",
+                    "pie": "D",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Kura, Facundo",
+                    "posicion": "MC, MI, MD, MO",
+                    "altura": "178",
+                    "edad": "21",
+                    "pie": "D",
+                    "valoracion": "73",
+                    "foto": null
+                },
+                {
+                    "nombre": "Legal, Valentín",
+                    "posicion": "MO, MC, MI, MD",
+                    "altura": "174",
+                    "edad": "27",
+                    "pie": "D",
+                    "valoracion": "84",
+                    "foto": null
+                },
+                {
+                    "nombre": "Lavada, Lucas",
+                    "posicion": "EXD, MD, LD, SD, EXI",
+                    "altura": "171",
+                    "edad": "21",
+                    "pie": "D",
+                    "valoracion": "73",
+                    "foto": null
+                },
+                {
+                    "nombre": "Peña Spólita, Tomás",
+                    "posicion": "EXI, MI, EXD, LI",
+                    "altura": "185",
+                    "edad": "23",
+                    "pie": "D",
+                    "valoracion": "78",
+                    "foto": null
+                },
+                {
+                    "nombre": "Phawa, Victor",
+                    "posicion": "DC",
+                    "altura": "190",
+                    "edad": "25",
+                    "pie": "D",
+                    "valoracion": "74",
+                    "foto": null
+                },
+                {
+                    "nombre": "Giménez, Julio",
+                    "posicion": "DC",
+                    "altura": "188",
+                    "edad": "25",
+                    "pie": "I",
+                    "valoracion": "70",
+                    "foto": null
+                },
+                {
+                    "nombre": "Perroloco, Gerardo",
+                    "posicion": "DC",
+                    "altura": "186",
+                    "edad": "28",
+                    "pie": "D",
+                    "valoracion": "77",
+                    "foto": null
+                },
+                {
+                    "nombre": "Dogo, Enzo",
+                    "posicion": "SD",
+                    "altura": "?",
+                    "edad": "17",
+                    "pie": "?",
+                    "valoracion": "72",
+                    "foto": null
+                }
+            ],
+            "escudo": null
+        },
+        {
+            "nombre": "Club Atlético Pochoclo",
+            "color": "?",
+            "fundacion": "22 de mayo de 1915",
+            "estadio": "Leonardo Bertucci",
+            "capacidad": "40.000",
+            "entrenador": "Daniel García",
+            "rivalidades": [
+                "Alburgo"
+            ],
+            "jugadores": [
+                {
+                    "nombre": "Bellón, Adrián",
+                    "posicion": "ARQ",
+                    "altura": "186",
+                    "edad": "39",
+                    "pie": "D",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Mesanza, Alfredo",
+                    "posicion": "ARQ",
+                    "altura": "186",
+                    "edad": "33",
+                    "pie": "I",
+                    "valoracion": "69",
+                    "foto": null
+                },
+                {
+                    "nombre": "Marxinho, Julio",
+                    "posicion": "DFC",
+                    "altura": "187",
+                    "edad": "37",
+                    "pie": "D",
+                    "valoracion": "74",
+                    "foto": null
+                },
+                {
+                    "nombre": "Romeu, Constantino",
+                    "posicion": "DFC",
+                    "altura": "188",
+                    "edad": "24",
+                    "pie": "I",
+                    "valoracion": "76",
+                    "foto": null
+                },
+                {
+                    "nombre": "Del Pueblo, Nestor",
+                    "posicion": "DFC",
+                    "altura": "?",
+                    "edad": "17",
+                    "pie": "?",
+                    "valoracion": "72",
+                    "foto": null
+                },
+                {
+                    "nombre": "Herllanez, Baptista",
+                    "posicion": "DFC",
+                    "altura": "191",
+                    "edad": "36",
+                    "pie": "D",
+                    "valoracion": "78",
+                    "foto": null
+                },
+                {
+                    "nombre": "Mensha, Nuru",
+                    "posicion": "LD",
+                    "altura": "181",
+                    "edad": "30",
+                    "pie": "D",
+                    "valoracion": "72",
+                    "foto": null
+                },
+                {
+                    "nombre": "Santos, Joao",
+                    "posicion": "LI",
+                    "altura": "183",
+                    "edad": "29",
+                    "pie": "I",
+                    "valoracion": "73",
+                    "foto": null
+                },
+                {
+                    "nombre": "Leiva, Renzo",
+                    "posicion": "LI, LD",
+                    "altura": "179",
+                    "edad": "30",
+                    "pie": "D",
+                    "valoracion": "78",
+                    "foto": null
+                },
+                {
+                    "nombre": "Kasami, Haijima",
+                    "posicion": "MCD",
+                    "altura": "182",
+                    "edad": "25",
+                    "pie": "I",
+                    "valoracion": "79",
+                    "foto": null
+                },
+                {
+                    "nombre": "Matos, Paulo",
+                    "posicion": "MCD",
+                    "altura": "183",
+                    "edad": "37",
+                    "pie": "D",
+                    "valoracion": "73",
+                    "foto": null
+                },
+                {
+                    "nombre": "Kukinha",
+                    "posicion": "MC",
+                    "altura": "178",
+                    "edad": "32",
+                    "pie": "I",
+                    "valoracion": "80",
+                    "foto": null
+                },
+                {
+                    "nombre": "Gerinha, Gerónimo",
+                    "posicion": "MC",
+                    "altura": "177",
+                    "edad": "30",
+                    "pie": "D",
+                    "valoracion": "72",
+                    "foto": null
+                },
+                {
+                    "nombre": "Migos, Javier",
+                    "posicion": "SD, MI, MC, MD",
+                    "altura": "177",
+                    "edad": "31",
+                    "pie": "D",
+                    "valoracion": "73",
+                    "foto": null
+                },
+                {
+                    "nombre": "López, Matías",
+                    "posicion": "MO, MC, MCD",
+                    "altura": "178",
+                    "edad": "27",
+                    "pie": "D",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Becerra, Ignacio",
+                    "posicion": "MO",
+                    "altura": "177",
+                    "edad": "36",
+                    "pie": "D",
+                    "valoracion": "77",
+                    "foto": null
+                },
+                {
+                    "nombre": "Hoffman, Thomas",
+                    "posicion": "MC",
+                    "altura": "180",
+                    "edad": "33",
+                    "pie": "I",
+                    "valoracion": "76",
+                    "foto": null
+                },
+                {
+                    "nombre": "Yornköklu, Koyk",
+                    "posicion": "SD",
+                    "altura": "171",
+                    "edad": "35",
+                    "pie": "I",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Morales, Germán",
+                    "posicion": "DC",
+                    "altura": "185",
+                    "edad": "35",
+                    "pie": "D",
+                    "valoracion": "76",
+                    "foto": null
+                },
+                {
+                    "nombre": "Ambrona, Carlos",
+                    "posicion": "DC",
+                    "altura": "188",
+                    "edad": "34",
+                    "pie": "I",
+                    "valoracion": "73",
+                    "foto": null
+                },
+                {
+                    "nombre": "Fenómeno, Omarinho",
+                    "posicion": "DC",
+                    "altura": "183",
+                    "edad": "36",
+                    "pie": "A",
+                    "valoracion": "84",
+                    "foto": null
+                }
+            ],
+            "escudo": null
+        },
+        {
+            "nombre": "Club Atlético Pescopagano",
+            "color": "?",
+            "fundacion": "17 de octubre de 1918",
+            "estadio": "Estadio Juan Domingo Perón",
+            "capacidad": "50.000",
+            "entrenador": "R. G. De la Fuente",
+            "rivalidades": [
+                "Miralbueno"
+            ],
+            "jugadores": [
+                {
+                    "nombre": "Juslio, Darío",
+                    "posicion": "ARQ",
+                    "altura": "187",
+                    "edad": "31",
+                    "pie": "I",
+                    "valoracion": "60",
+                    "foto": null
+                },
+                {
+                    "nombre": "Poros, Martín",
+                    "posicion": "ARQ",
+                    "altura": "186",
+                    "edad": "27",
+                    "pie": "D",
+                    "valoracion": "82",
+                    "foto": null
+                },
+                {
+                    "nombre": "Pauleta, Genaro",
+                    "posicion": "DFC",
+                    "altura": "185",
+                    "edad": "37",
+                    "pie": "I",
+                    "valoracion": "68",
+                    "foto": null
+                },
+                {
+                    "nombre": "Mariño, José Luis",
+                    "posicion": "DFC",
+                    "altura": "187",
+                    "edad": "31",
+                    "pie": "I",
+                    "valoracion": "80",
+                    "foto": null
+                },
+                {
+                    "nombre": "Jónas Albarzi",
+                    "posicion": "DFC, LD",
+                    "altura": "188",
+                    "edad": "31",
+                    "pie": "D",
+                    "valoracion": "79",
+                    "foto": null
+                },
+                {
+                    "nombre": "Barceló Marín, Godofredo",
+                    "posicion": "DFC",
+                    "altura": "?",
+                    "edad": "19",
+                    "pie": "I",
+                    "valoracion": "60",
+                    "foto": null
+                },
+                {
+                    "nombre": "González, Edgard",
+                    "posicion": "DFC",
+                    "altura": "186",
+                    "edad": "20",
+                    "pie": "I",
+                    "valoracion": "64",
+                    "foto": null
+                },
+                {
+                    "nombre": "Takashiwa, Takana",
+                    "posicion": "LI, MI",
+                    "altura": "175",
+                    "edad": "31",
+                    "pie": "I",
+                    "valoracion": "82",
+                    "foto": null
+                },
+                {
+                    "nombre": "Barrientos, Lucas",
+                    "posicion": "LI, LD, MI, MD",
+                    "altura": "168",
+                    "edad": "28",
+                    "pie": "D",
+                    "valoracion": "83",
+                    "foto": null
+                },
+                {
+                    "nombre": "Damio, Leandro",
+                    "posicion": "LI, LD, MI",
+                    "altura": "177",
+                    "edad": "27",
+                    "pie": "I",
+                    "valoracion": "69",
+                    "foto": null
+                },
+                {
+                    "nombre": "Torres, Pablo",
+                    "posicion": "MCD, MC",
+                    "altura": "179",
+                    "edad": "30",
+                    "pie": "D",
+                    "valoracion": "70",
+                    "foto": null
+                },
+                {
+                    "nombre": "Dimitru, Dimitri",
+                    "posicion": "MCD, MC",
+                    "altura": "166",
+                    "edad": "32",
+                    "pie": "I",
+                    "valoracion": "85",
+                    "foto": null
+                },
+                {
+                    "nombre": "Minondo, Alessio",
+                    "posicion": "MC, MI, MD, MO",
+                    "altura": "177",
+                    "edad": "34",
+                    "pie": "D",
+                    "valoracion": "81",
+                    "foto": null
+                },
+                {
+                    "nombre": "Valverde, Julián",
+                    "posicion": "MC, MI, MD",
+                    "altura": "180",
+                    "edad": "28",
+                    "pie": "I",
+                    "valoracion": "86",
+                    "foto": null
+                },
+                {
+                    "nombre": "Chambers, Jhonathan",
+                    "posicion": "MC, MO, MI, MD",
+                    "altura": "175",
+                    "edad": "29",
+                    "pie": "I",
+                    "valoracion": "90",
+                    "foto": null
+                },
+                {
+                    "nombre": "Fernandes, Leonardo",
+                    "posicion": "EXI",
+                    "altura": "?",
+                    "edad": "17",
+                    "pie": "?",
+                    "valoracion": "76",
+                    "foto": null
+                },
+                {
+                    "nombre": "Altamirano, Rogelio",
+                    "posicion": "SD, DC",
+                    "altura": "173",
+                    "edad": "19",
+                    "pie": "D",
+                    "valoracion": "71",
+                    "foto": null
+                },
+                {
+                    "nombre": "Ojeda, Hernán",
+                    "posicion": "SD, DC",
+                    "altura": "179",
+                    "edad": "22",
+                    "pie": "I",
+                    "valoracion": "67",
+                    "foto": null
+                },
+                {
+                    "nombre": "Sólómó, Emmanuel",
+                    "posicion": "DC",
+                    "altura": "187",
+                    "edad": "27",
+                    "pie": "I",
+                    "valoracion": "83",
+                    "foto": null
+                },
+                {
+                    "nombre": "Juvenil",
+                    "posicion": "?",
+                    "altura": "?",
+                    "edad": "17",
+                    "pie": "?",
+                    "valoracion": "72",
+                    "foto": null
+                }
+            ],
+            "escudo": null
+        },
+        {
+            "nombre": "Club Atlético Sarpag",
+            "color": "Lila",
+            "fundacion": "29 de enero de 1908",
+            "estadio": "J.J. Altamirano",
+            "capacidad": "33.200",
+            "entrenador": "Darío Murci",
+            "rivalidades": [
+                "Avellán Fútbol Club"
+            ],
+            "jugadores": [
+                {
+                    "nombre": "Mendoza, Iván",
+                    "posicion": "ARQ",
+                    "altura": "188",
+                    "edad": "27",
+                    "pie": "D",
+                    "valoracion": "77",
+                    "foto": null
+                },
+                {
+                    "nombre": "Kayo, Rodrigo",
+                    "posicion": "ARQ",
+                    "altura": "181",
+                    "edad": "33",
+                    "pie": "I",
+                    "valoracion": "72",
+                    "foto": null
+                },
+                {
+                    "nombre": "Matos Dorrego, Damián",
+                    "posicion": "DFC",
+                    "altura": "186",
+                    "edad": "38",
+                    "pie": "D",
+                    "valoracion": "72",
+                    "foto": null
+                },
+                {
+                    "nombre": "Zilmanari, Hernán",
+                    "posicion": "DFC",
+                    "altura": "188",
+                    "edad": "36",
+                    "pie": "D",
+                    "valoracion": "80",
+                    "foto": null
+                },
+                {
+                    "nombre": "Olvajo, Roberto",
+                    "posicion": "DFC",
+                    "altura": "187",
+                    "edad": "32",
+                    "pie": "I",
+                    "valoracion": "83",
+                    "foto": null
+                },
+                {
+                    "nombre": "Francardo, Alonso",
+                    "posicion": "DFC",
+                    "altura": "185",
+                    "edad": "34",
+                    "pie": "D",
+                    "valoracion": "74",
+                    "foto": null
+                },
+                {
+                    "nombre": "Nababkin, Hariz",
+                    "posicion": "LI",
+                    "altura": "175",
+                    "edad": "32",
+                    "pie": "I",
+                    "valoracion": "77",
+                    "foto": null
+                },
+                {
+                    "nombre": "Huaso, Mauricio",
+                    "posicion": "LD",
+                    "altura": "176",
+                    "edad": "34",
+                    "pie": "D",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Manzanera, Gustavo \"Gusti\"",
+                    "posicion": "LI",
+                    "altura": "180",
+                    "edad": "30",
+                    "pie": "I",
+                    "valoracion": "72",
+                    "foto": null
+                },
+                {
+                    "nombre": "Maicolinho, Michel",
+                    "posicion": "LD, LI",
+                    "altura": "169",
+                    "edad": "32",
+                    "pie": "A",
+                    "valoracion": "72",
+                    "foto": null
+                },
+                {
+                    "nombre": "Cordarrel, Nicolás",
+                    "posicion": "MCD",
+                    "altura": "183",
+                    "edad": "36",
+                    "pie": "D",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Docrán, Bautista",
+                    "posicion": "MCD",
+                    "altura": "183",
+                    "edad": "28",
+                    "pie": "D",
+                    "valoracion": "81",
+                    "foto": null
+                },
+                {
+                    "nombre": "Ferrada Souza, Joan",
+                    "posicion": "MC",
+                    "altura": "178",
+                    "edad": "34",
+                    "pie": "I",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Chinnici, Nicolás",
+                    "posicion": "MO, DC, SD",
+                    "altura": "175",
+                    "edad": "27",
+                    "pie": "D",
+                    "valoracion": "76",
+                    "foto": null
+                },
+                {
+                    "nombre": "Puertolas, Santiago",
+                    "posicion": "MO",
+                    "altura": "180",
+                    "edad": "32",
+                    "pie": "D",
+                    "valoracion": "84",
+                    "foto": null
+                },
+                {
+                    "nombre": "Momboloilo, Telmo",
+                    "posicion": "MC, MO, MCD, MI, MD",
+                    "altura": "178",
+                    "edad": "33",
+                    "pie": "D",
+                    "valoracion": "76",
+                    "foto": null
+                },
+                {
+                    "nombre": "Óscarzinho",
+                    "posicion": "SD",
+                    "altura": "175",
+                    "edad": "37",
+                    "pie": "D",
+                    "valoracion": "81",
+                    "foto": null
+                },
+                {
+                    "nombre": "Cacáo, Luisao",
+                    "posicion": "SD",
+                    "altura": "180",
+                    "edad": "34",
+                    "pie": "I",
+                    "valoracion": "76",
+                    "foto": null
+                },
+                {
+                    "nombre": "Cozzani, Agustín",
+                    "posicion": "SD, DC",
+                    "altura": "179",
+                    "edad": "29",
+                    "pie": "D",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Samora, Ignacio",
+                    "posicion": "DC",
+                    "altura": "185",
+                    "edad": "38",
+                    "pie": "D",
+                    "valoracion": "76",
+                    "foto": null
+                },
+                {
+                    "nombre": "Swarzyk, Günsen",
+                    "posicion": "DC",
+                    "altura": "182",
+                    "edad": "31",
+                    "pie": "I",
+                    "valoracion": "85",
+                    "foto": null
+                },
+                {
+                    "nombre": "Sanne, Kügl",
+                    "posicion": "SD, EXI, EXD",
+                    "altura": "182",
+                    "edad": "36",
+                    "pie": "D",
+                    "valoracion": "74",
+                    "foto": null
+                },
+                {
+                    "nombre": "Duachipa, Juan Carlos",
+                    "posicion": "DC",
+                    "altura": "199",
+                    "edad": "17",
+                    "pie": "?",
+                    "valoracion": "67",
+                    "foto": null
+                }
+            ],
+            "escudo": null
+        },
+        {
+            "nombre": "C.D. Miralbueno",
+            "color": "?",
+            "fundacion": "1915",
+            "estadio": "Estadio Miralbueno",
+            "capacidad": "40.500",
+            "entrenador": "Pablo López",
+            "rivalidades": [],
+            "jugadores": [
+                {
+                    "nombre": "Peral, Leandro",
+                    "posicion": "ARQ",
+                    "altura": "186",
+                    "edad": "32",
+                    "pie": "D",
+                    "valoracion": "68",
+                    "foto": null
+                },
+                {
+                    "nombre": "Marion, Thibault-Roger",
+                    "posicion": "ARQ",
+                    "altura": "188",
+                    "edad": "21",
+                    "pie": "D",
+                    "valoracion": "61",
+                    "foto": null
+                },
+                {
+                    "nombre": "Sabaque, Jonatan",
+                    "posicion": "DFC",
+                    "altura": "182",
+                    "edad": "32",
+                    "pie": "I",
+                    "valoracion": "70",
+                    "foto": null
+                },
+                {
+                    "nombre": "Navas, Bautista",
+                    "posicion": "DFC",
+                    "altura": "186",
+                    "edad": "30",
+                    "pie": "D",
+                    "valoracion": "63",
+                    "foto": null
+                },
+                {
+                    "nombre": "Williams Martínez, Andrés",
+                    "posicion": "DFC",
+                    "altura": "185",
+                    "edad": "37",
+                    "pie": "D",
+                    "valoracion": "70",
+                    "foto": null
+                },
+                {
+                    "nombre": "Pablo, Mateo",
+                    "posicion": "LI",
+                    "altura": "177",
+                    "edad": "30",
+                    "pie": "I",
+                    "valoracion": "63",
+                    "foto": null
+                },
+                {
+                    "nombre": "Adas, Ernes",
+                    "posicion": "LD",
+                    "altura": "179",
+                    "edad": "31",
+                    "pie": "D",
+                    "valoracion": "69",
+                    "foto": null
+                },
+                {
+                    "nombre": "Kusakin, Matías",
+                    "posicion": "LD",
+                    "altura": "180",
+                    "edad": "29",
+                    "pie": "D",
+                    "valoracion": "68",
+                    "foto": null
+                },
+                {
+                    "nombre": "Szymusiuk, Jefran",
+                    "posicion": "LI",
+                    "altura": "179",
+                    "edad": "31",
+                    "pie": "I",
+                    "valoracion": "77",
+                    "foto": null
+                },
+                {
+                    "nombre": "Michot Agorda, Jean",
+                    "posicion": "DFC",
+                    "altura": "186",
+                    "edad": "17",
+                    "pie": "I",
+                    "valoracion": "66",
+                    "foto": null
+                },
+                {
+                    "nombre": "Quinquillo, Pablo",
+                    "posicion": "MCD",
+                    "altura": "175",
+                    "edad": "30",
+                    "pie": "D",
+                    "valoracion": "70",
+                    "foto": null
+                },
+                {
+                    "nombre": "Butichelli, Juan",
+                    "posicion": "MCD",
+                    "altura": "182",
+                    "edad": "36",
+                    "pie": "D",
+                    "valoracion": "62",
+                    "foto": null
+                },
+                {
+                    "nombre": "Jareño, Facundo",
+                    "posicion": "MC",
+                    "altura": "177",
+                    "edad": "30",
+                    "pie": "I",
+                    "valoracion": "67",
+                    "foto": null
+                },
+                {
+                    "nombre": "Gardener, Emanuel",
+                    "posicion": "MC",
+                    "altura": "179",
+                    "edad": "32",
+                    "pie": "D",
+                    "valoracion": "69",
+                    "foto": null
+                },
+                {
+                    "nombre": "Cabrera, Darío",
+                    "posicion": "MC",
+                    "altura": "178",
+                    "edad": "29",
+                    "pie": "I",
+                    "valoracion": "76",
+                    "foto": null
+                },
+                {
+                    "nombre": "Johnson, Rick",
+                    "posicion": "MC",
+                    "altura": "182",
+                    "edad": "20",
+                    "pie": "I",
+                    "valoracion": "72",
+                    "foto": null
+                },
+                {
+                    "nombre": "Van House, Ariel",
+                    "posicion": "MC",
+                    "altura": "176",
+                    "edad": "31",
+                    "pie": "I",
+                    "valoracion": "74",
+                    "foto": null
+                },
+                {
+                    "nombre": "Resasdems, Remis",
+                    "posicion": "MO, MC, MI, MD",
+                    "altura": "172",
+                    "edad": "23",
+                    "pie": "D",
+                    "valoracion": "78",
+                    "foto": null
+                },
+                {
+                    "nombre": "Vultrio, Jonatan",
+                    "posicion": "SD",
+                    "altura": "168",
+                    "edad": "27",
+                    "pie": "D",
+                    "valoracion": "64",
+                    "foto": null
+                },
+                {
+                    "nombre": "Hussy, Alessio",
+                    "posicion": "SD",
+                    "altura": "183",
+                    "edad": "27",
+                    "pie": "D",
+                    "valoracion": "73",
+                    "foto": null
+                },
+                {
+                    "nombre": "Sarmiento, Miguel",
+                    "posicion": "DC",
+                    "altura": "181",
+                    "edad": "31",
+                    "pie": "D",
+                    "valoracion": "72",
+                    "foto": null
+                },
+                {
+                    "nombre": "Lasa, Baltazar",
+                    "posicion": "DC",
+                    "altura": "185",
+                    "edad": "30",
+                    "pie": "I",
+                    "valoracion": "67",
+                    "foto": null
+                }
+            ],
+            "escudo": null
+        },
+        {
+            "nombre": "Deportivo Zorura",
+            "color": "?",
+            "fundacion": "28 de julio de 1930",
+            "estadio": "José Zorura",
+            "capacidad": "31.400",
+            "entrenador": "Roberto Maccioni",
+            "rivalidades": [],
+            "jugadores": [
+                {
+                    "nombre": "Barrera, Claudio",
+                    "posicion": "ARQ",
+                    "altura": "182",
+                    "edad": "29",
+                    "pie": "D",
+                    "valoracion": "68",
+                    "foto": null
+                },
+                {
+                    "nombre": "Ëzcamin, Orde",
+                    "posicion": "ARQ",
+                    "altura": "185",
+                    "edad": "24",
+                    "pie": "D",
+                    "valoracion": "62",
+                    "foto": null
+                },
+                {
+                    "nombre": "Estrada, Luis",
+                    "posicion": "DFC",
+                    "altura": "188",
+                    "edad": "17",
+                    "pie": "D",
+                    "valoracion": "69",
+                    "foto": null
+                },
+                {
+                    "nombre": "Romero, Franco",
+                    "posicion": "DFC",
+                    "altura": "183",
+                    "edad": "27",
+                    "pie": "I",
+                    "valoracion": "71",
+                    "foto": null
+                },
+                {
+                    "nombre": "Ochoa, Julio",
+                    "posicion": "DFC",
+                    "altura": "184",
+                    "edad": "28",
+                    "pie": "D",
+                    "valoracion": "67",
+                    "foto": null
+                },
+                {
+                    "nombre": "Tulimira, Franco",
+                    "posicion": "DFC",
+                    "altura": "186",
+                    "edad": "32",
+                    "pie": "I",
+                    "valoracion": "67",
+                    "foto": null
+                },
+                {
+                    "nombre": "Grasso, Martín",
+                    "posicion": "LD",
+                    "altura": "176",
+                    "edad": "21",
+                    "pie": "D",
+                    "valoracion": "65",
+                    "foto": null
+                },
+                {
+                    "nombre": "Juarez, Milton",
+                    "posicion": "LD",
+                    "altura": "178",
+                    "edad": "34",
+                    "pie": "D",
+                    "valoracion": "67",
+                    "foto": null
+                },
+                {
+                    "nombre": "Sartis, Gustavo",
+                    "posicion": "LI",
+                    "altura": "177",
+                    "edad": "30",
+                    "pie": "I",
+                    "valoracion": "70",
+                    "foto": null
+                },
+                {
+                    "nombre": "Gagliardi, Ernesto",
+                    "posicion": "LI",
+                    "altura": "180",
+                    "edad": "30",
+                    "pie": "I",
+                    "valoracion": "69",
+                    "foto": null
+                },
+                {
+                    "nombre": "Rodenas, Federico",
+                    "posicion": "MCD",
+                    "altura": "180",
+                    "edad": "24",
+                    "pie": "I",
+                    "valoracion": "67",
+                    "foto": null
+                },
+                {
+                    "nombre": "Bacal, Alexander",
+                    "posicion": "MCD",
+                    "altura": "177",
+                    "edad": "25",
+                    "pie": "D",
+                    "valoracion": "64",
+                    "foto": null
+                },
+                {
+                    "nombre": "Paniagua, Javier",
+                    "posicion": "MC",
+                    "altura": "176",
+                    "edad": "30",
+                    "pie": "D",
+                    "valoracion": "65",
+                    "foto": null
+                },
+                {
+                    "nombre": "Limeiro, César",
+                    "posicion": "MC",
+                    "altura": "173",
+                    "edad": "21",
+                    "pie": "I",
+                    "valoracion": "61",
+                    "foto": null
+                },
+                {
+                    "nombre": "Rodrigues, Alex",
+                    "posicion": "MC",
+                    "altura": "184",
+                    "edad": "26",
+                    "pie": "I",
+                    "valoracion": "70",
+                    "foto": null
+                },
+                {
+                    "nombre": "Melendro, Gonzalo",
+                    "posicion": "MO",
+                    "altura": "174",
+                    "edad": "23",
+                    "pie": "D",
+                    "valoracion": "64",
+                    "foto": null
+                },
+                {
+                    "nombre": "Farré, Gabriel",
+                    "posicion": "MO",
+                    "altura": "183",
+                    "edad": "30",
+                    "pie": "D",
+                    "valoracion": "77",
+                    "foto": null
+                },
+                {
+                    "nombre": "Paumann, Santiago",
+                    "posicion": "MC, MO",
+                    "altura": "172",
+                    "edad": "21",
+                    "pie": "I",
+                    "valoracion": "72",
+                    "foto": null
+                },
+                {
+                    "nombre": "Escamilla Arregui, Eduardo",
+                    "posicion": "SD",
+                    "altura": "177",
+                    "edad": "16",
+                    "pie": "I",
+                    "valoracion": "65",
+                    "foto": null
+                },
+                {
+                    "nombre": "Balboa, Adrián",
+                    "posicion": "SD",
+                    "altura": "179",
+                    "edad": "31",
+                    "pie": "D",
+                    "valoracion": "70",
+                    "foto": null
+                },
+                {
+                    "nombre": "Treganer, Yao",
+                    "posicion": "DC",
+                    "altura": "186",
+                    "edad": "26",
+                    "pie": "D",
+                    "valoracion": "72",
+                    "foto": null
+                },
+                {
+                    "nombre": "Deyamba, Youba",
+                    "posicion": "DC",
+                    "altura": "178",
+                    "edad": "28",
+                    "pie": "D",
+                    "valoracion": "75",
+                    "foto": null
+                }
+            ],
+            "escudo": null
+        },
+        {
+            "nombre": "Dintra Ferdinand Kazem",
+            "color": "?",
+            "fundacion": "14 de junio de 1911",
+            "estadio": "Stadion",
+            "capacidad": "42.000",
+            "entrenador": "Gallardo Forllegard",
+            "rivalidades": [
+                "Clinmberlech"
+            ],
+            "jugadores": [
+                {
+                    "nombre": "da Conceição, João Guilherme",
+                    "posicion": "ARQ",
+                    "altura": "187",
+                    "edad": "17",
+                    "pie": "I",
+                    "valoracion": "64",
+                    "foto": null
+                },
+                {
+                    "nombre": "Samiir, Samir",
+                    "posicion": "ARQ",
+                    "altura": "185",
+                    "edad": "40",
+                    "pie": "D",
+                    "valoracion": "74",
+                    "foto": null
+                },
+                {
+                    "nombre": "Avello, Aires",
+                    "posicion": "DFC",
+                    "altura": "177",
+                    "edad": "25",
+                    "pie": "D",
+                    "valoracion": "72",
+                    "foto": null
+                },
+                {
+                    "nombre": "Bessa, Thiago",
+                    "posicion": "DFC",
+                    "altura": "176",
+                    "edad": "31",
+                    "pie": "I",
+                    "valoracion": "66",
+                    "foto": null
+                },
+                {
+                    "nombre": "Pablette, Fabio",
+                    "posicion": "DFC",
+                    "altura": "186",
+                    "edad": "31",
+                    "pie": "D",
+                    "valoracion": "68",
+                    "foto": null
+                },
+                {
+                    "nombre": "Razmeniaga, Norberto",
+                    "posicion": "DFC",
+                    "altura": "190",
+                    "edad": "38",
+                    "pie": "I",
+                    "valoracion": "69",
+                    "foto": null
+                },
+                {
+                    "nombre": "Kasimo, Gregorio",
+                    "posicion": "LI",
+                    "altura": "180",
+                    "edad": "31",
+                    "pie": "I",
+                    "valoracion": "67",
+                    "foto": null
+                },
+                {
+                    "nombre": "Sarasavio, Oscar",
+                    "posicion": "LD",
+                    "altura": "174",
+                    "edad": "30",
+                    "pie": "D",
+                    "valoracion": "74",
+                    "foto": null
+                },
+                {
+                    "nombre": "Adrover, Fabricio",
+                    "posicion": "LI",
+                    "altura": "174",
+                    "edad": "30",
+                    "pie": "I",
+                    "valoracion": "71",
+                    "foto": null
+                },
+                {
+                    "nombre": "Garces Flamante, Ramiro",
+                    "posicion": "LD",
+                    "altura": "174",
+                    "edad": "30",
+                    "pie": "D",
+                    "valoracion": "64",
+                    "foto": null
+                },
+                {
+                    "nombre": "Graym, David",
+                    "posicion": "MCD",
+                    "altura": "178",
+                    "edad": "31",
+                    "pie": "D",
+                    "valoracion": "65",
+                    "foto": null
+                },
+                {
+                    "nombre": "Kolo-Kané",
+                    "posicion": "MCD",
+                    "altura": "180",
+                    "edad": "33",
+                    "pie": "D",
+                    "valoracion": "72",
+                    "foto": null
+                },
+                {
+                    "nombre": "Matajudíos, Lorenzo",
+                    "posicion": "MCD",
+                    "altura": "186",
+                    "edad": "17",
+                    "pie": "D",
+                    "valoracion": "68",
+                    "foto": null
+                },
+                {
+                    "nombre": "Manelo, Dante",
+                    "posicion": "MCD, MC",
+                    "altura": "178",
+                    "edad": "29",
+                    "pie": "I",
+                    "valoracion": "73",
+                    "foto": null
+                },
+                {
+                    "nombre": "Lienneman, Bingham",
+                    "posicion": "MC",
+                    "altura": "180",
+                    "edad": "33",
+                    "pie": "D",
+                    "valoracion": "73",
+                    "foto": null
+                },
+                {
+                    "nombre": "Montiel, Alejandro",
+                    "posicion": "MC",
+                    "altura": "175",
+                    "edad": "23",
+                    "pie": "I",
+                    "valoracion": "64",
+                    "foto": null
+                },
+                {
+                    "nombre": "Puré, Andrés",
+                    "posicion": "MC",
+                    "altura": "180",
+                    "edad": "31",
+                    "pie": "D",
+                    "valoracion": "69",
+                    "foto": null
+                },
+                {
+                    "nombre": "Kesim, Cumhur",
+                    "posicion": "MC",
+                    "altura": "185",
+                    "edad": "38",
+                    "pie": "A",
+                    "valoracion": "74",
+                    "foto": null
+                },
+                {
+                    "nombre": "Salvatierra, Martín",
+                    "posicion": "MC",
+                    "altura": "175",
+                    "edad": "28",
+                    "pie": "I",
+                    "valoracion": "68",
+                    "foto": null
+                },
+                {
+                    "nombre": "Van Dijen, Leandro",
+                    "posicion": "MC",
+                    "altura": "182",
+                    "edad": "33",
+                    "pie": "D",
+                    "valoracion": "73",
+                    "foto": null
+                },
+                {
+                    "nombre": "Clako, Ramiro",
+                    "posicion": "SD",
+                    "altura": "177",
+                    "edad": "28",
+                    "pie": "D",
+                    "valoracion": "71",
+                    "foto": null
+                },
+                {
+                    "nombre": "Ilice, Lucas",
+                    "posicion": "DC",
+                    "altura": "184",
+                    "edad": "27",
+                    "pie": "D",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Rennho, Joa",
+                    "posicion": "DC",
+                    "altura": "185",
+                    "edad": "40",
+                    "pie": "D",
+                    "valoracion": "62",
+                    "foto": null
+                },
+                {
+                    "nombre": "Chidiebube, Ignazio",
+                    "posicion": "DC",
+                    "altura": "202",
+                    "edad": "22",
+                    "pie": "I",
+                    "valoracion": "69",
+                    "foto": null
+                }
+            ],
+            "escudo": null
+        },
+        {
+            "nombre": "Fieshida Fútbol Club",
+            "color": "?",
+            "fundacion": "24 de julio de 1929",
+            "estadio": "Estadio Fieshidonia",
+            "capacidad": "43.200",
+            "entrenador": "Matías Cruzero",
+            "rivalidades": [
+                "C.A. Lions",
+                "Altardez V-R",
+                "Corsan"
+            ],
+            "jugadores": [
+                {
+                    "nombre": "Cornelli, Federico",
+                    "posicion": "ARQ",
+                    "altura": "181",
+                    "edad": "30",
+                    "pie": "D",
+                    "valoracion": "81",
+                    "foto": null
+                },
+                {
+                    "nombre": "Ramires, Julian",
+                    "posicion": "ARQ",
+                    "altura": "178",
+                    "edad": "30",
+                    "pie": "D",
+                    "valoracion": "70",
+                    "foto": null
+                },
+                {
+                    "nombre": "Fernández, Juan",
+                    "posicion": "DFC",
+                    "altura": "182",
+                    "edad": "33",
+                    "pie": "D",
+                    "valoracion": "81",
+                    "foto": null
+                },
+                {
+                    "nombre": "Marino, Jorge",
+                    "posicion": "DFC",
+                    "altura": "188",
+                    "edad": "31",
+                    "pie": "D",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Guñelo, Esteban",
+                    "posicion": "DFC",
+                    "altura": "182",
+                    "edad": "40",
+                    "pie": "I",
+                    "valoracion": "77",
+                    "foto": null
+                },
+                {
+                    "nombre": "Mengual, César",
+                    "posicion": "DFC",
+                    "altura": "185",
+                    "edad": "31",
+                    "pie": "D",
+                    "valoracion": "68",
+                    "foto": null
+                },
+                {
+                    "nombre": "Ballo, Uriel",
+                    "posicion": "LD",
+                    "altura": "178",
+                    "edad": "29",
+                    "pie": "D",
+                    "valoracion": "72",
+                    "foto": null
+                },
+                {
+                    "nombre": "Fernández, Yamil",
+                    "posicion": "LD",
+                    "altura": "178",
+                    "edad": "31",
+                    "pie": "D",
+                    "valoracion": "81",
+                    "foto": null
+                },
+                {
+                    "nombre": "Moreno, Santiago",
+                    "posicion": "LI",
+                    "altura": "180",
+                    "edad": "31",
+                    "pie": "I",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "De la Mata, Santiago",
+                    "posicion": "LD",
+                    "altura": "184",
+                    "edad": "36",
+                    "pie": "D",
+                    "valoracion": "65",
+                    "foto": null
+                },
+                {
+                    "nombre": "Ploksinzsky, Budzislaw",
+                    "posicion": "MCD",
+                    "altura": "175",
+                    "edad": "39",
+                    "pie": "I",
+                    "valoracion": "71",
+                    "foto": null
+                },
+                {
+                    "nombre": "Resquel, Gastón",
+                    "posicion": "MCD",
+                    "altura": "186",
+                    "edad": "33",
+                    "pie": "D",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Muzzo, Diego",
+                    "posicion": "MC",
+                    "altura": "175",
+                    "edad": "28",
+                    "pie": "D",
+                    "valoracion": "79",
+                    "foto": null
+                },
+                {
+                    "nombre": "Danio, Juan",
+                    "posicion": "MC",
+                    "altura": "171",
+                    "edad": "28",
+                    "pie": "D",
+                    "valoracion": "72",
+                    "foto": null
+                },
+                {
+                    "nombre": "Guzman, Juan",
+                    "posicion": "MC",
+                    "altura": "177",
+                    "edad": "35",
+                    "pie": "D",
+                    "valoracion": "70",
+                    "foto": null
+                },
+                {
+                    "nombre": "Noble, Tomás",
+                    "posicion": "MD, MC, MCD",
+                    "altura": "179",
+                    "edad": "35",
+                    "pie": "D",
+                    "valoracion": "73",
+                    "foto": null
+                },
+                {
+                    "nombre": "Manenera, Fausto",
+                    "posicion": "MO",
+                    "altura": "171",
+                    "edad": "25",
+                    "pie": "D",
+                    "valoracion": "64",
+                    "foto": null
+                },
+                {
+                    "nombre": "Estrella, Belisario",
+                    "posicion": "MO",
+                    "altura": "167",
+                    "edad": "17",
+                    "pie": "I",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Gutierrez, Marcos",
+                    "posicion": "SD",
+                    "altura": "183",
+                    "edad": "31",
+                    "pie": "D",
+                    "valoracion": "65",
+                    "foto": null
+                },
+                {
+                    "nombre": "Velazco, Cristian",
+                    "posicion": "SD",
+                    "altura": "180",
+                    "edad": "35",
+                    "pie": "I",
+                    "valoracion": "71",
+                    "foto": null
+                },
+                {
+                    "nombre": "Millán, Teo",
+                    "posicion": "SD",
+                    "altura": "175",
+                    "edad": "19",
+                    "pie": "D",
+                    "valoracion": "50",
+                    "foto": null
+                },
+                {
+                    "nombre": "Mendoza Morro, Santiago",
+                    "posicion": "DC",
+                    "altura": "181",
+                    "edad": "31",
+                    "pie": "D",
+                    "valoracion": "80",
+                    "foto": null
+                },
+                {
+                    "nombre": "Akic, Anthios",
+                    "posicion": "DC",
+                    "altura": "185",
+                    "edad": "36",
+                    "pie": "I",
+                    "valoracion": "78",
+                    "foto": null
+                }
+            ],
+            "escudo": null
+        },
+        {
+            "nombre": "Kentucky Fútbol Club",
+            "color": "?",
+            "fundacion": "18 de agosto de 1908",
+            "estadio": "Fabricio A. Faccelo",
+            "capacidad": "65.500",
+            "entrenador": "?",
+            "rivalidades": [
+                "Chambo F.C."
+            ],
+            "jugadores": [
+                {
+                    "nombre": "Schulthieß, Sthepan",
+                    "posicion": "ARQ",
+                    "altura": "185",
+                    "edad": "32",
+                    "pie": "D",
+                    "valoracion": "87",
+                    "foto": null
+                },
+                {
+                    "nombre": "Luther Paña, Martin",
+                    "posicion": "ARQ",
+                    "altura": "188",
+                    "edad": "32",
+                    "pie": "D",
+                    "valoracion": "72",
+                    "foto": null
+                },
+                {
+                    "nombre": "Ribeiro, José",
+                    "posicion": "DFC",
+                    "altura": "187",
+                    "edad": "28",
+                    "pie": "D",
+                    "valoracion": "83",
+                    "foto": null
+                },
+                {
+                    "nombre": "Delí, Víctor",
+                    "posicion": "DFC",
+                    "altura": "185",
+                    "edad": "27",
+                    "pie": "D",
+                    "valoracion": "74",
+                    "foto": null
+                },
+                {
+                    "nombre": "Paz Marteño, Alejandro",
+                    "posicion": "DFC",
+                    "altura": "186",
+                    "edad": "30",
+                    "pie": "D",
+                    "valoracion": "84",
+                    "foto": null
+                },
+                {
+                    "nombre": "Martínez, Manuel",
+                    "posicion": "LD, DFC, MD",
+                    "altura": "174",
+                    "edad": "25",
+                    "pie": "D",
+                    "valoracion": "74",
+                    "foto": null
+                },
+                {
+                    "nombre": "Lexington, Philippe",
+                    "posicion": "LI",
+                    "altura": "177",
+                    "edad": "31",
+                    "pie": "I",
+                    "valoracion": "84",
+                    "foto": null
+                },
+                {
+                    "nombre": "Benetcochea, Ramiro",
+                    "posicion": "LD, MD",
+                    "altura": "181",
+                    "edad": "29",
+                    "pie": "D",
+                    "valoracion": "82",
+                    "foto": null
+                },
+                {
+                    "nombre": "Gatti, Benicio",
+                    "posicion": "LI",
+                    "altura": "180",
+                    "edad": "23",
+                    "pie": "I",
+                    "valoracion": "71",
+                    "foto": null
+                },
+                {
+                    "nombre": "Lejeune, Pierre",
+                    "posicion": "MCD",
+                    "altura": "178",
+                    "edad": "29",
+                    "pie": "D",
+                    "valoracion": "83",
+                    "foto": null
+                },
+                {
+                    "nombre": "Huatl, Camilo",
+                    "posicion": "MC",
+                    "altura": "178",
+                    "edad": "27",
+                    "pie": "I",
+                    "valoracion": "82",
+                    "foto": null
+                },
+                {
+                    "nombre": "Bersi, Facundo",
+                    "posicion": "MO, MC",
+                    "altura": "175",
+                    "edad": "29",
+                    "pie": "D",
+                    "valoracion": "88",
+                    "foto": null
+                },
+                {
+                    "nombre": "Ponce, Léon",
+                    "posicion": "MC, MCD",
+                    "altura": "183",
+                    "edad": "32",
+                    "pie": "D",
+                    "valoracion": "76",
+                    "foto": null
+                },
+                {
+                    "nombre": "Watt, Mehmed",
+                    "posicion": "MC",
+                    "altura": "180",
+                    "edad": "31",
+                    "pie": "I",
+                    "valoracion": "77",
+                    "foto": null
+                },
+                {
+                    "nombre": "de Asís, Gausho",
+                    "posicion": "EXI",
+                    "altura": "182",
+                    "edad": "31",
+                    "pie": "D",
+                    "valoracion": "82",
+                    "foto": null
+                },
+                {
+                    "nombre": "Domingos, Caio",
+                    "posicion": "EXI",
+                    "altura": "173",
+                    "edad": "22",
+                    "pie": "D",
+                    "valoracion": "74",
+                    "foto": null
+                },
+                {
+                    "nombre": "Ankuwilka, Yaku",
+                    "posicion": "DC",
+                    "altura": "187",
+                    "edad": "26",
+                    "pie": "I",
+                    "valoracion": "87",
+                    "foto": null
+                },
+                {
+                    "nombre": "Bé, Patricio",
+                    "posicion": "EXD",
+                    "altura": "174",
+                    "edad": "26",
+                    "pie": "D",
+                    "valoracion": "81",
+                    "foto": null
+                },
+                {
+                    "nombre": "Mastache, Bautista",
+                    "posicion": "DC",
+                    "altura": "185",
+                    "edad": "17",
+                    "pie": "D",
+                    "valoracion": "75",
+                    "foto": null
+                }
+            ],
+            "escudo": null
+        },
+        {
+            "nombre": "Liberty Club de Fútbol",
+            "color": "Rojo",
+            "fundacion": "6 de enero de 1915",
+            "estadio": "Estadio Libertad",
+            "capacidad": "60.000",
+            "entrenador": "Kuka",
+            "rivalidades": [
+                "Breffud C. de F."
+            ],
+            "jugadores": [
+                {
+                    "nombre": "Luffy, Mono",
+                    "posicion": "ARQ",
+                    "altura": "191",
+                    "edad": "19",
+                    "pie": "A",
+                    "valoracion": "76",
+                    "foto": null
+                },
+                {
+                    "nombre": "Sirgomme, Ramón",
+                    "posicion": "ARQ",
+                    "altura": "189",
+                    "edad": "37",
+                    "pie": "D",
+                    "valoracion": "71",
+                    "foto": null
+                },
+                {
+                    "nombre": "Portillo, Damián",
+                    "posicion": "DFC",
+                    "altura": "185",
+                    "edad": "30",
+                    "pie": "D",
+                    "valoracion": "81",
+                    "foto": null
+                },
+                {
+                    "nombre": "Tadiglio, Facundo",
+                    "posicion": "DFC, LI",
+                    "altura": "180",
+                    "edad": "27",
+                    "pie": "I",
+                    "valoracion": "85",
+                    "foto": null
+                },
+                {
+                    "nombre": "Stroh, Gerwin",
+                    "posicion": "LI",
+                    "altura": "174",
+                    "edad": "28",
+                    "pie": "I",
+                    "valoracion": "84",
+                    "foto": null
+                },
+                {
+                    "nombre": "Villagra, Leandro",
+                    "posicion": "LD, MD",
+                    "altura": "177",
+                    "edad": "27",
+                    "pie": "D",
+                    "valoracion": "83",
+                    "foto": null
+                },
+                {
+                    "nombre": "Uberdahnn, Mario",
+                    "posicion": "DFC",
+                    "altura": "188",
+                    "edad": "24",
+                    "pie": "I",
+                    "valoracion": "85",
+                    "foto": null
+                },
+                {
+                    "nombre": "Lalo, Junior",
+                    "posicion": "LI",
+                    "altura": "174",
+                    "edad": "28",
+                    "pie": "I",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Vitto, Ronan",
+                    "posicion": "DFC",
+                    "altura": "191",
+                    "edad": "32",
+                    "pie": "D",
+                    "valoracion": "73",
+                    "foto": null
+                },
+                {
+                    "nombre": "Bradley, Nicholas",
+                    "posicion": "DFC",
+                    "altura": "185",
+                    "edad": "31",
+                    "pie": "D",
+                    "valoracion": "78",
+                    "foto": null
+                },
+                {
+                    "nombre": "Vaxinho, Ramão",
+                    "posicion": "DFC",
+                    "altura": "195",
+                    "edad": "30",
+                    "pie": "I",
+                    "valoracion": "79",
+                    "foto": null
+                },
+                {
+                    "nombre": "Campo, Pedro \"Piter\"",
+                    "posicion": "LD",
+                    "altura": "170",
+                    "edad": "29",
+                    "pie": "D",
+                    "valoracion": "74",
+                    "foto": null
+                },
+                {
+                    "nombre": "Fuentes, Walter",
+                    "posicion": "MC, MCD",
+                    "altura": "173",
+                    "edad": "29",
+                    "pie": "D",
+                    "valoracion": "83",
+                    "foto": null
+                },
+                {
+                    "nombre": "Hernández, Gonzalo \"Chipi\"",
+                    "posicion": "MC, MD, SD, EXD",
+                    "altura": "175",
+                    "edad": "27",
+                    "pie": "D",
+                    "valoracion": "79",
+                    "foto": null
+                },
+                {
+                    "nombre": "Pein, Tonaga",
+                    "posicion": "MC, MO, SD",
+                    "altura": "185",
+                    "edad": "28",
+                    "pie": "D",
+                    "valoracion": "86",
+                    "foto": null
+                },
+                {
+                    "nombre": "Fernández, Juan",
+                    "posicion": "MC, MI, SD",
+                    "altura": "177",
+                    "edad": "35",
+                    "pie": "D",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Saravia, Bryon",
+                    "posicion": "MC",
+                    "altura": "175",
+                    "edad": "29",
+                    "pie": "I",
+                    "valoracion": "78",
+                    "foto": null
+                },
+                {
+                    "nombre": "Rocha, Carlos",
+                    "posicion": "MC",
+                    "altura": "175",
+                    "edad": "32",
+                    "pie": "D",
+                    "valoracion": "75",
+                    "foto": null
+                },
+                {
+                    "nombre": "Villagarcía, Eduardo",
+                    "posicion": "MO",
+                    "altura": "176",
+                    "edad": "31",
+                    "pie": "D",
+                    "valoracion": "77",
+                    "foto": null
+                },
+                {
+                    "nombre": "Tsubaza, Ozora",
+                    "posicion": "MO, SD, MC, MI, MD",
+                    "altura": "176",
+                    "edad": "28",
+                    "pie": "I",
+                    "valoracion": "88",
+                    "foto": null
+                },
+                {
+                    "nombre": "Zimmer, Ignacio",
+                    "posicion": "MO, MC, SD",
+                    "altura": "187",
+                    "edad": "30",
+                    "pie": "D",
+                    "valoracion": "87",
+                    "foto": null
+                },
+                {
+                    "nombre": "Semichev, Sergey",
+                    "posicion": "DC",
+                    "altura": "191",
+                    "edad": "34",
+                    "pie": "D",
+                    "valoracion": "87",
+                    "foto": null
+                },
+                {
+                    "nombre": "Coco, Fernando",
+                    "posicion": "DC, SD",
+                    "altura": "181",
+                    "edad": "29",
+                    "pie": "D",
+                    "valoracion": "79",
+                    "foto": null
+                }
+            ],
+            "escudo": null
+        }
+    ]
+}

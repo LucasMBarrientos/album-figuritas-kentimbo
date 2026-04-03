@@ -1,0 +1,30 @@
+{
+  "name": "album-figuritas-backend",
+  "version": "1.0.0",
+  "description": "Backend API para Álbum de Figuritas",
+  "main": "server.js",
+  "type": "module",
+  "engines": {
+    "node": "18.x || 20.x"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "seed": "node seed-deploy.js"
+  },
+  "keywords": ["api", "figuritas", "album"],
+  "author": "Lucas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*",
+    "pg": "*",
+    "dotenv": "*",
+    "bcryptjs": "*",
+    "jsonwebtoken": "*",
+    "cors": "*",
+    "express-validator": "*"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}

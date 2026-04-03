@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Álbum Figuritas - Liga Sudamericana</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <h1>🏆 ÁLBUM DE FIGURITAS</h1>
+                <p class="subtitle">Liga Sudamericana Ficticia 2026</p>
+            </div>
+            <div class="stats-bar">
+                <div class="stat">
+                    <span class="stat-label">Figuritas Pegadas:</span>
+                    <span class="stat-value" id="collected">0</span>/<span id="total">0</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-label">Progreso:</span>
+                    <div class="progress-bar">
+                        <div class="progress-fill" id="progressFill"></div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Controls -->
+        <div class="controls">
+            <button class="btn-primary btn-large" id="openPackBtn">📦 ABRIR SOBRE</button>
+            <button class="btn-secondary" id="viewMissingBtn">❌ Ver Faltantes</button>
+        </div>
+
+        <!-- Album Section -->
+        <main class="album-container">
+            <div class="album-content" id="albumContent">
+                <!-- Album pages will be loaded here -->
+            </div>
+        </main>
+
+        <!-- Modal for Card Details -->
+        <div class="modal" id="cardModal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <div class="modal-body">
+                    <div class="card-detail-image">
+                        <div class="card-frame">
+                            <div class="player-avatar" id="modalAvatar"></div>
+                        </div>
+                    </div>
+                    <div class="card-detail-info">
+                        <h2 id="modalName"></h2>
+                        <p id="modalTeam" class="team-badge"></p>
+                        <div class="stats">
+                            <div class="stat-item">
+                                <span class="label">Posición:</span>
+                                <span class="value" id="modalPosition"></span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="label">Número:</span>
+                                <span class="value" id="modalNumber"></span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="label">Velocidad:</span>
+                                <span class="value" id="modalSpeed"></span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="label">Fuerza:</span>
+                                <span class="value" id="modalStrength"></span>
+                            </div>
+                        </div>
+                        <div class="modal-actions">
+                            <button class="btn-primary" id="toggleCollectedBtn">Pegar en Álbum</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>Liga Sudamericana Ficticia © 2026 | Completa tu álbum de figuritas</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
